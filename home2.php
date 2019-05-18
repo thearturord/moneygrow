@@ -98,6 +98,32 @@
 
         </article>
 
+        <article class="main">
+
+
+          <a href="post8.php">
+            <h2>Security in your transactions</h2><br><br>
+          </a>
+
+
+          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+
+          <div class="logo-wrap">
+            <img class="logo-test" src="img/post8.jpg" alt="">
+          </div>
+
+          <p>It is necessary to discuss the issue of security, since at first it is the main obstacle that customers attribute to opt for an online broker. Although the web and email to carry out any type of transaction have considerable advantages, it is necessary to have a minimum knowledge of security to avoid falling into the hands of a scammer (hacker). If the transactions are always made through the web of your broker it is impossible for anyone to intercept those communications. Currently, online banking is totally safe and reliable.</p>
+
+          <h3>Risks of revelation of secrets</h3>
+
+          <p>Trading in the Forex market is a risky activity. This warning is for informational purposes and does not indicate that all of the aforementioned risks may occur directly to you. The main objective is to inform the client about all commercial and non-speculative risks, which may occur while working in the Forex market. First, you must identify the purpose of your deposit and never add more deposits if the loss can have a negative impact on your budget. Operations in the foreign exchange market are dangerous due to the possibility of incurring uncontrolled losses.</p>
+
+          <div class="read-flex">
+            <a class="read" href="post8.php">Continue reading</a>
+          </div>
+
+        </article>
+
       </div>
 
 <?php include("aside.php") ?>

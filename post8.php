@@ -1,0 +1,81 @@
+<?php include("header.php") ?>
+
+  <div class="contenedordetodo">
+
+
+
+    <!--
+    <div class="subtitulo">
+
+      <h1>Todas las noticias al dia!</h1>
+
+    </div> -->
+
+    <section class="section">
+
+      <div class="articulos">
+        <!------>
+
+        <article class="main">
+
+
+          <h2 class="h2">Security in your transactions</h2><br><br>
+
+          <div class="logo-wrap">
+            <img class="logo-test" src="img/post8.jpg" alt="">
+          </div>
+
+          <p>It is necessary to discuss the issue of security, since at first it is the main obstacle that customers attribute to opt for an online broker. Although the web and email to carry out any type of transaction have considerable advantages, it is necessary to have a minimum knowledge of security to avoid falling into the hands of a scammer (hacker). If the transactions are always made through the web of your broker it is impossible for anyone to intercept those communications. Currently, online banking is totally safe and reliable.</p>
+
+          <h3>Risks of revelation of secrets</h3>
+
+          <p>Trading in the Forex market is a risky activity. This warning is for informational purposes and does not indicate that all of the aforementioned risks may occur directly to you. The main objective is to inform the client about all commercial and non-speculative risks, which may occur while working in the Forex market. First, you must identify the purpose of your deposit and never add more deposits if the loss can have a negative impact on your budget. Operations in the foreign exchange market are dangerous due to the possibility of incurring uncontrolled losses.</p>
+
+          <h3>Leverage</h3>
+
+          <p>The leverage effect allows you to trade large amounts of money greater than your deposits. However, the leverage can work sideways or on your. At the same time, the psychological factor plays an important role. Some operators opt for a large size of leverage to operate larger amounts. It creates the illusion of having "unlimited profit opportunities without any risk", but in reality, it is not always the case. A large volume of funds traded in the market can bring great benefits but we must never forget that, along with the investment, there is a great possibility of losing almost all the available deposit. You must carefully analyze and choose the size leverage that goes with your level of risk.</p>
+
+          <h3>High volatility of financial instruments</h3>
+
+          <p>A large number of instruments that are traded in the forex market have a high intraday volatility, which can lead to sudden losses.</p>
+
+          <h3>Technical risk (risk, connected with the technical team)</h3>
+
+          <p>There are some risks that can occur on the client side, such as hardware and software failures, loss of connection, problems with communication systems, misconfiguration of the trading platform, etc.</p>
+
+          <h3>Restrictions, imposed by virtue of legislation</h3>
+
+          <p>The client assumes all the risk of operations that may be prohibited by the legislation of the country of his residence. Each client has to notify the competent authorities about the income level of their operations.</p>
+
+          <h3>Circumstances of force majeure</h3>
+
+          <p>The company is not responsible for losses or lack of funds in the event of any circumstances of force majeure such as natural disasters, extraordinary weather conditions, threat of war, acts of terrorism, revolution, illegal actions of third parties, riots, riots, decisions of State bodies, etc.</p>
+
+          <p>Financial education is aimed at designing strategies for taking advantage of business opportunities, as well as resource management. Therefore, this preparation is an intellectual investment that is transformed into tangible results if it is put into practice.</p>
+
+          <p>Some of the tips for managing money are:</p>
+
+          <ul>
+            <li>1.- The right financial advice.</li>
+            <li>2.- The saving of capital destined for investment.</li>
+            <li>3.- The control of expenses.</li>
+            <li>4.- The purchase of assets.</li>
+            <li>5.- Expand knowledge</li>
+            <li>6.- Build new skills</li>
+          </ul>
+
+          <p>Financial education helps to generate financial freedom in a lasting way, because if you get a large amount of money, but it is managed incorrectly, it can quickly evaporate. The secret is to generate base profits to be used in reinvestment, to control census expenses, and to be continuously educated with the best quality financial information.</p>
+
+
+
+        </article>
+
+      </div>
+
+<?php include("aside.php") ?>
+    </section>
+
+
+  </div>
+
+  <?php include("footer.php") ?>

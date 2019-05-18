@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="css/privacidad.css">
+
 <?php include("header.php") ?>
 
   <div class="contenedordetodo">
