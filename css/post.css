@@ -1,0 +1,160 @@
+.logo-test{
+  width: 50%;
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.articulos{
+  flex-basis: 60%;
+
+}
+
+.time {
+  display: none;
+}
+
+.main {
+  margin-bottom: 15px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.main h3{
+  padding: 10px 0 5px;
+  font-size: 25px;
+}
+
+.main h4{
+  font-size: 22px;
+}
+
+.main .h2{
+  font-size: 44px;
+  font-family: "Source Sans Pro", arial, sans-serif;
+  font-weight: 400;
+  color: #0274be;
+  -webkit-font-smoothing: antialiased;
+  text-align: left;
+  display: inline;
+}
+
+.logo-wrap{
+  width: 87%;
+  height: 87%;
+  margin: auto;
+}
+
+.logo-test {
+  padding-bottom: 10px;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+.main p {
+
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 1.833;
+  -webkit-font-smoothing: antialiased;
+  color:#333;
+  text-align: justify;
+  padding: 8px 10px;
+}
+
+.boton{
+ padding: 5px 7px;
+ border: solid 1px #2344FF ;
+ border-radius: 5px;
+ background-color: #363534;
+ color: white;
+ font-size: 16px;
+}
+
+.leer-wrapper{
+  width: 100%;
+}
+
+.leer{
+  text-align: right;
+  margin: 5px 0;
+  padding: 0 5px;
+}
+
+.leer a {
+ text-decoration: none;
+ font-size: 20px;
+}
+
+.columna {
+ flex-basis: 24%;
+ margin-left: 3%;
+
+}
+
+.titulodecolumna-wrapper{
+  padding: 5px 5px;
+  text-align: center;
+  border-radius: 2px;
+  background: white;
+  border-bottom: 1px solid black;
+}
+
+.titulodecolumna{
+font-family: "Merriweather";
+font-size: 20px;
+}
+
+.lista{
+  border-radius: 5px;
+  background:#fff;
+}
+
+.lista li  {
+  list-style: none;
+  display: list-item;
+  text-align: -webkit-macht-parent;
+  padding: 10px;
+}
+
+.lista a {
+  text-decoration: none;
+  font-size: 24px;
+  font-family: arial;
+  color: #0071bb;
+
+}
+/*Cell screen mode*/
+@media only screen and (max-width:548px){
+
+  .articulos{
+    flex-basis: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .social-media{
+    margin: 0;
+  }
+  .subtitulo{
+    width: 100%;
+  }
+
+  .subtitulo h1 {
+    font-size: 20px;
+  }
+
+  .main a {
+   padding-left: 0;
+   padding: 4px 0;
+  }
+
+}
