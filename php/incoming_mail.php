@@ -33,14 +33,14 @@ try {
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Subject ="ForexMoneyGrow ". $nombre. $apellidos;
+    $mail->Subject = "ForexMoneyGrow";
     // $mail->LastName = $apellidos;
     // $mail->Email = $email;
     // $mail->Country = $pais;
-    $mail->Body = $email. $message;
+    $mail->Body = $message;
 
     $mail->send();
-    header("location: message-sent.php")
+    header("location: message-sent.php");
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
