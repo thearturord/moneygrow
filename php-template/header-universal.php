@@ -25,7 +25,7 @@
 
     <ul class="nav-boton" id="lista">
       <li><a href="index.php">HOME</a></li>
-      <li><a href="#">ABOUT US</a></li>
+      <li><a href="about-us.php">ABOUT US</a></li>
       <li><a href="privacy-policy.php">PRIVACY POLICY</a></li>
       <li><a href="contacto.php">CONTACT US</a></li>
       <li><a href="#">MAKE MONEY ONLINE</a></li>
