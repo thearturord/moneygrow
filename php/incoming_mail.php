@@ -33,11 +33,11 @@ try {
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Name = $nombre;
+    $mail->Subject ="ForexMoneyGrow ", $nombre, $apellidos;
     // $mail->LastName = $apellidos;
     // $mail->Email = $email;
     // $mail->Country = $pais;
-    $mail->Body = $message;
+    $mail->Body = $email , $message;
 
     $mail->send();
     echo 'Message has been sent';
