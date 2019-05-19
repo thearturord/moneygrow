@@ -1,5 +1,11 @@
 <?php
 
+$nombre = $_POST['nombre'];
+$mail->LastName = $apellidos;
+$mail->Email = $email;
+$mail->Country = $pais;
+$mail->Body = "hola";
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
