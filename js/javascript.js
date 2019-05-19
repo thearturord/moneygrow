@@ -1,7 +1,7 @@
 (function(){
 
   document.getElementById('buscar-1').onsubmit = function() {
-       window.location = 'http://www.google.com/search?q=site:angry-goodall-1db9d7.netlify.com' + " " + document.getElementById('buscar-2').value;
+       window.location = 'http://www.google.com/search?q=site:forexmoneygrow.com' + " " + document.getElementById('buscar-2').value;
     return false; };
 
   })();

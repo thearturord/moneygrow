@@ -8,7 +8,7 @@
 
   <div class="buscar-mobile">
 
-    <form method="post" />
+    <form method="get" />
     <div class="search-bar">
       <input class="buscar-campo" type="text" name="Buscar" placeholder="Search">
     </div>
@@ -34,9 +34,9 @@
     <div class="menu-right">
 
       <ul class="social-media">
-        <li><a href="#"></a></li>
-        <li><a href="#"></a></li>
-        <li><a href="#"></a></li>
+        <li><a target="_blank" href="https://www.facebook.com/Forexmoneygrow-441574749978473"></a></li> <!-- facebook -->
+        <li><a href="#"></a></li> <!-- IG -->
+        <li><a href="#"></a></li> <!-- SnapChat -->
       </ul>
 
 

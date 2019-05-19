@@ -46,7 +46,7 @@
           <div class="privacy-content">
 
             <p>
-              Trading Business World (“us”, “we”, or “our”) operates the https://forexmoneygrow.com website (the “Service”). </p>
+              ForexMoneyGrow (“us”, “we”, or “our”) operates the https://forexmoneygrow.com website (the “Service”). </p>
 
               <p>
               This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
@@ -75,8 +75,7 @@
 
             <h3>Usage Data</h3>
 
-            <p>We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of
-            our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
+            <p>We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
 
             <h3>Tracking & Cookies Data</h3>
 
@@ -84,8 +83,7 @@
               We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
 
               <p>
-              Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to
-              collect and track information and to improve and analyze our Service.</p>
+              Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
               <p>
 
               You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
@@ -102,7 +100,7 @@
 
             <h3>Use of Data</h3>
 
-            <p>Trading Business World uses the collected data for various purposes:</p>
+            <p>ForexMoneyGrow uses the collected data for various purposes:</p>
 
               <ul>
                 <li>To provide and maintain the Service</li>
@@ -125,10 +123,10 @@
               If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.</p>
 
               <p>
-              Your consent to this Privacy Policy followed by your submission of such   information represents your agreement to that transfer.</p>
+              Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
 
               <p>
-              Trading Business World will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country
+              ForexMoneyGrow will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country
               unless there are adequate controls in place including the security of your data and other personal information.
             </p>
 
@@ -136,12 +134,12 @@
 
             <h3>Legal Requirements</h3>
 
-            <p>Trading Business World may disclose your Personal Data in the good faith belief that such action is necessary to:
+            <p>ForexMoneyGrow may disclose your Personal Data in the good faith belief that such action is necessary to:
 
               <ul>
                 <li>To protect against legal liability</li>
                 <li>To comply with a legal obligation</li>
-                <li>To protect and defend the rights or property of Trading Business World</li>
+                <li>To protect and defend the rights or property of ForexMoneyGrow</li>
                 <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
                 <li>To protect the personal safety of users of the Service or the public</li>
               </ul>
@@ -162,7 +160,7 @@
 
             <h3>Links To Other Sites</h3>
 
-            <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.  </p>
+            <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 
             <p>
               We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
