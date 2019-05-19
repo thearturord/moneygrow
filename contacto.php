@@ -25,7 +25,7 @@
 
       <!-- <h2 class="titulo">Envianos un mensaje!</h2> -->
 
-      <form class="" method="post" id="formulario" name="formulario">
+      <form class="" method="post" action="php/incoming_mail.php" id="formulario" name="formulario">
 
         <div class="formulario-div">
 
