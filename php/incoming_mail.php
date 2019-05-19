@@ -33,7 +33,7 @@ try {
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    // $mail->Subject = "ForexMoneyGrow";
+    $mail->Subject = "ForexMoneyGrow";
     // $mail->LastName = $apellidos;
     // $mail->Email = $email;
     // $mail->Country = $pais;
