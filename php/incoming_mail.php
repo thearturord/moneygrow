@@ -1,10 +1,11 @@
 <?php
 
 $nombre = $_POST['nombre'];
-$mail->LastName = $apellidos;
-$mail->Email = $email;
-$mail->Country = $pais;
-$mail->Body = "hola";
+$apellidos = $_POST['apellidos'];
+$email = $_POST['email'];
+$country = $_POST['pais'];
+$message = $_POST['mensaje'];
+
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -33,10 +34,10 @@ try {
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Name = $nombre;
-    $mail->LastName = $apellidos;
-    $mail->Email = $email;
-    $mail->Country = $pais;
-    $mail->Body = "hola";
+    // $mail->LastName = $apellidos;
+    // $mail->Email = $email;
+    // $mail->Country = $pais;
+    $mail->Body = $message;
 
     $mail->send();
     echo 'Message has been sent';
