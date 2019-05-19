@@ -1,21 +1,5 @@
 <?php
 
-
-
-    $email =
-    $pais =
-    $mensaje =
-
-    $mailTo = "forexmoneygrow@gmail.com";
-    $headers = "From: ".$email;
-    $txt = "you have received a new msg ".$nombre ".\n\n" .$mensaje;
-
-    mail($mailTo, $headers, $txt);
-    header("location: index.php?mailsend");
-
-  }
-
-
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
