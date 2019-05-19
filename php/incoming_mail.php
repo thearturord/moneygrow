@@ -30,7 +30,7 @@ try {
     $mail->LastName = $apellidos;
     $mail->Email = $email;
     $mail->Country = $pais;
-    $mail->Name = $mensaje;
+    $mail->Body = "hola";
 
     $mail->send();
     echo 'Message has been sent';
