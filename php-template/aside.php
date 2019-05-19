@@ -9,9 +9,6 @@
   <div class="lista">
     <ul>
       <a href="post2.php">
-        <!-- <div class="lista-pic">
-          <img class="lista-img" src="img/post1.jpg" alt="">
-        </div> -->
         <li>What is forex?</li>
       </a>
       <a href="post1.php">

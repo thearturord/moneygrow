@@ -1,6 +1,23 @@
-<link rel="stylesheet" href="css/privacidad.css">
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-<?php include("header.php") ?>
+<head>
+  <link rel="shortcut icon" href="img/logo2.png">
+  <meta charset="utf-8">
+  <title>ForexMoneyGrow</title>
+  <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
+  <meta name="author" content="Arturo Nunez" />
+  <meta name="keywords" content="News, Forex, Cryto currency" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/universal-style.css">
+  <link rel="stylesheet" href="css/privacidad.css">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head> <!-- end of head --->
+
+<body>
+
+<?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
 
@@ -15,7 +32,7 @@
         FreePrivacyPolicy.com. <br> <br>
 
         We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy
-        have the same meanings as in our Terms and Conditions, accessible from https://forexmoneygrow.com.
+        have the same meanings as in our Terms and Conditions, accessible from https://forexmoneygrow.com
 
       </p><br>
 
@@ -154,5 +171,10 @@
 
   </div>
 
+<?php include("php-template/footer.php") ?>
 
-  <?php include("footer.php") ?>
+  <script type="text/javascript" src="js/javascript.js"></script>
+
+</body>
+
+</html>

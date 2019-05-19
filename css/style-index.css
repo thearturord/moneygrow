@@ -159,15 +159,16 @@
   font-size: 20px;
 }
 
-.lista {
+.lista{
   border-radius: 5px;
-  background: #fff;
+  background:#fff;
 }
 
-.lista li {
+.lista li  {
   list-style: none;
   display: list-item;
   text-align: -webkit-macht-parent;
+  padding: 10px;
 }
 
 .lista a {
@@ -175,10 +176,7 @@
   font-size: 24px;
   font-family: arial;
   color: #0071bb;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 5px 10px ;
+
 }
 
 .lista-pic {
