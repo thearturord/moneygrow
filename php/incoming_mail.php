@@ -1,34 +1,19 @@
 <?php
-  // $from = $_POST['from'];
-  // $to = $_POST['to'];
-  // $plain_text = $_POST['plain'];
-  //
-  // header("Content-type: text/plain");
-  //
-  // if ($to == 'allowed@example.com'){
-  //   header("HTTP/1.0 200 OK");
-  //   echo('success');
-  // }else{
-  //   header("HTTP/1.0 403 OK");
-  //   echo('user not allowed here');
-  // }
-  // exit;
 
-  // if (isset($_POST["submit"])) {
-  //   $nombre = $_POST["name"];
-  //   $apellidos = $_POST["lastName"];
-  //   $email = $_POST["email"];
-  //   $pais = $_POST["country"];
-  //   $mensaje = $_POST["message"];
-  //
-  //   $mailTo = "forexmoneygrow@gmail.com";
-  //   $headers = "From: ".$email;
-  //   $txt = "you have received a new msg ".$nombre ".\n\n" .$mensaje;
-  //
-  //   mail($mailTo, $headers, $txt);
-  //   header("location: index.php?mailsend");
-  //
-  // }
+
+
+    $email =
+    $pais =
+    $mensaje =
+
+    $mailTo = "forexmoneygrow@gmail.com";
+    $headers = "From: ".$email;
+    $txt = "you have received a new msg ".$nombre ".\n\n" .$mensaje;
+
+    mail($mailTo, $headers, $txt);
+    header("location: index.php?mailsend");
+
+  }
 
 
 use PHPMailer\PHPMailer\PHPMailer;
@@ -42,7 +27,7 @@ $mail = new PHPMailer(true);
 
 try {
     //Server settings
-    $mail->SMTPDebug = 1;                                       // Enable verbose debug output
+    $mail->SMTPDebug = 0;                                       // Enable verbose debug output
     $mail->isSMTP();                                            // Set mailer to use SMTP
     $mail->Host       = 'smtp.gmail.com';                        // Specify main and backup SMTP servers
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
@@ -57,8 +42,11 @@ try {
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Name = 'This';
-    $mail->Body = 'This is the HTML message body <b>in bold!</b>';
+    $mail->Name = $nombre;
+    $mail->LastName = $apellidos;
+    $mail->Email = $email;
+    $mail->Country = $pais;
+    $mail->Body = $mensaje;
 
     $mail->send();
     echo 'Message has been sent';
