@@ -40,14 +40,8 @@
         <article class="main">
 
           <header>
-            <h1>Privacy Policy</h1>
+              <h1>Your Message was successfully sent</h1>
           </header>
-
-          <div class="privacy-content">
-
-          <h1>Your Message was successfully sent</h1>
-
-          </div>
 
         </article>
 
