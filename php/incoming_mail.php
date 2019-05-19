@@ -42,9 +42,9 @@ $mail = new PHPMailer(true);
 
 try {
     //Server settings
-    $mail->SMTPDebug = 0;                                       // Enable verbose debug output
+    $mail->SMTPDebug = 1;                                       // Enable verbose debug output
     $mail->isSMTP();                                            // Set mailer to use SMTP
-    $mail->Host       = 'smtp1.gmail.com';  // Specify main and backup SMTP servers
+    $mail->Host       = 'smtp.gmail.com';                        // Specify main and backup SMTP servers
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
     $mail->Username   = 'forexmoneygrow@gmail.com';                     // SMTP username
     $mail->Password   = 'forexmoneygrow321';                               // SMTP password
