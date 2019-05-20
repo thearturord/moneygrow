@@ -41,10 +41,10 @@ try {
 
     $mail->send();
     echo 'Message has been sent, please press back button =)';
-    // // header ('Location: message-sent.php');
-};
-//  catch (Exception $e) {
-//     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-// }
+    header ('Location: message-sent.php');
+}
+ catch (Exception $e) {
+    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+}
 
 ?>
