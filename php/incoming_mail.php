@@ -40,7 +40,7 @@ try {
     $mail->Body = $country. " ". $email. " ". $message ;
 
     $mail->send();
-    // echo 'Message has been sent, please press back button =)';
+    echo 'Message has been sent, please press back button =)';
     // // header ('Location: message-sent.php');
 };
 //  catch (Exception $e) {
