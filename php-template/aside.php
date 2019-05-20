@@ -8,10 +8,10 @@
 
   <div class="lista">
     <ul>
-      <a href="post2.php">
+      <a href="post1.php">
         <li>What is forex?</li>
       </a>
-      <a href="post1.php">
+      <a href="post2.php">
         <li>What is trading and how do you earn money by investing?</li>
       </a>
       <a href="post3.php">
