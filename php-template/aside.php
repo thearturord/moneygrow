@@ -38,6 +38,9 @@
       <a href="post-10">
         <li>What Forex Brokers Never Want you to Know!</li>
       </a>
+      <a href="post-11">
+        <li>Beginner's Guide to Forex Trading</li>
+      </a>
     </ul>
   </div>
 
