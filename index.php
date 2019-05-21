@@ -59,7 +59,7 @@
         <article class="main">
 
 
-          <a href="post1.php">
+          <a href="post1">
             <h2>What is Forex?</h2><br><br>
           </a>
 
