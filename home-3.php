@@ -31,15 +31,6 @@
 
   <div class="contenedordetodo">
 
-
-
-    <!--
-    <div class="subtitulo">
-
-      <h1>Todas las noticias al dia!</h1>
-
-    </div> -->
-
     <section class="section">
 
       <div class="articulos">
@@ -47,26 +38,87 @@
 
         <article class="main">
 
-          <a href="post5">
-            <h2>4 of the most successful forex traders in the world</h2><br><br>
+          <a href="post-9">
+            <h2>10 things you should know about the Forex market</h2><br><br>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
 
           <div class="logo-wrap">
-            <img class="logo-test" src="img/post5.jpg" alt="">
+            <img class="logo-test" src="img/post9.jpg" alt="">
           </div>
 
-          <p>The Forex Market (also known as Forex or FX, abbreviation of the English term Foreign Exchange) daily moves a volume of negotiations of around 5 trillion dollars.</p>
+          <h3>1. Forex is not scam</h3>
 
-          <p>Behind this immense volume of daily negotiations, we will find the so-called "speculators". Scattered all over the world and in attack attitude in order to make a profit from the fluctuations of the price of the coins.</p>
+          <p>Unfortunately many people are in the Forex currency market Forex are used as an example of pyramid type but it has nothing to do with Forex (Currency Exchange) which is simply the currency market which operates in its different places highlighting the from London, Tokyo, Sydney and New York, distributed among these to operate 24 hours a day for 5 days a week (closes with the New York market on Friday afternoon GMT-3 and opens with the Sydney market the Sunday afternoon GMT-3).</p>
 
-          <p>The currency market revolves around fluctuations in the price of currencies such as: The Dollar, the Japanese Yen, the Euro and the British Pound. There are more exchange currencies and, on many occasions, the big players have created
-            their fortune by negotiating with them.</p>
+          <h3>2. Actors of the currency market</h3>
+
+          <p>In the forex market, many of the participants are those who trade the big figures daily. These actors are: Commercial Banks, Central Banks, Hedge Funds, Commercial Companies and Private Merchants through brokers that serve as intermediaries.</p>
 
 
           <div class="read-flex">
-            <a class="read" href="post5">Continue reading</a>
+            <a class="read" href="post-9">Continue reading</a>
+          </div>
+
+        </article>
+
+        <article class="main">
+
+          <a href="post-10">
+            <h2>What Forex Brokers Never Want you to Know!</h2><br><br>
+          </a>
+
+          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+
+          <div class="logo-wrap">
+            <img class="logo-test" src="img/post10.jpg" alt="">
+          </div>
+
+          <p>In the financial markets there are many different brokerage companies that work with their clients.</p>
+
+          <p>Some brokers offer low trade costs and others offer negotiating costs a little higher.</p>
+
+          <p>Some brokers are manufacturers of direct markets, and are on the right side of all operations that directly benefit from their losses.</p>
+
+          <p>And other brokers send their operations directly in the interbank market for execution.</p>
+
+          <p>Some customers take into account their business and their customers only in the short term, and prioritize the quantity over quality. On the other hand, other brokers create long-term partnerships with as many profitable traders as possible. Retail minors are successful.</p>
+
+
+          <div class="read-flex">
+            <a class="read" href="post-10">Continue reading</a>
+          </div>
+
+        </article>
+
+        <article class="main">
+
+          <a href="post-11">
+            <h2>Beginner's Guide to Forex Trading</h2><br><br>
+          </a>
+
+          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+
+          <div class="logo-wrap">
+            <img class="logo-test" src="img/post11.jpg" alt="">
+          </div>
+
+          <p>Forex and CFD online trading for beginners can be difficult. In general, this is due to realistic expectations, but also among newcomers to Forex. The Forex is not a fast way to get rich.</p>
+
+          <p>This article is our definitive Forex Trading manual for beginners. In this guide for Forex beginners includes:</p>
+
+            <ul>
+              <li>1.- An introduction to the Forex market for beginners.</li>
+              <li>2.- How the currency market works (FX).</li>
+              <li>3.- The key terminology of the benefits of trading Forex and the risks.</li>
+              <li>4.- How can you start trading in Forex.</li>
+              <li>5.- The choice of the best broker.</li>
+              <li>6.- The best Trading software.</li>
+            </ul>
+
+          <div class="read-flex">
+            <a class="read" href="post-11">Continue reading</a>
           </div>
 
         </article>

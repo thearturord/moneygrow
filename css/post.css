@@ -78,21 +78,6 @@
  font-size: 16px;
 }
 
-.leer-wrapper{
-  width: 100%;
-}
-
-.leer{
-  text-align: right;
-  margin: 5px 0;
-  padding: 0 5px;
-}
-
-.leer a {
- text-decoration: none;
- font-size: 20px;
-}
-
 .columna {
  flex-basis: 24%;
  margin-left: 3%;

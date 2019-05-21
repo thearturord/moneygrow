@@ -2,7 +2,7 @@
 
   <div class="titulodecolumna-wrapper">
     <div class="titulo-caja">
-      <strong class="titulodecolumna">POPULAR</strong>
+      <strong class="titulodecolumna">Navigate our most recent posts!</strong>
     </div>
   </div>
 
@@ -28,6 +28,15 @@
       </a>
       <a href="post-7">
         <li>The idea behind the Forex strategy</li>
+      </a>
+      <a href="post-8">
+        <li>Security in your transactions</li>
+      </a>
+      <a href="post-9">
+        <li>10 things you should know about the Forex market</li>
+      </a>
+      <a href="post-10">
+        <li>What Forex Brokers Never Want you to Know!</li>
       </a>
     </ul>
   </div>

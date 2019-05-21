@@ -1,7 +1,3 @@
-.logo-test {
-  width: 50%;
-}
-
 .section {
   display: flex;
   justify-content: center;
@@ -18,7 +14,6 @@
   background: #fff;
   border-radius: 2px;
   text-align: center;
-
 }
 
 .time {
@@ -82,6 +77,23 @@
   font-size: 25px;
 }
 
+.main ul li  {
+  list-style: none;
+  display: list-item;
+  text-align: -webkit-macht-parent;
+  padding: 10px;
+  font-size: 20px;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 1.833;
+  -webkit-font-smoothing: antialiased;
+  color:#333;
+  text-align: justify;
+  padding: 8px 10px;
+}
+
 .read-flex{
   display: flex;
   justify-content: flex-end;
@@ -124,21 +136,6 @@
   background-color: #363534;
   color: white;
   font-size: 16px;
-}
-
-.leer-wrapper {
-  width: 100%;
-}
-
-.leer {
-  text-align: right;
-  margin: 5px 0;
-  padding: 0 5px;
-}
-
-.leer a {
-  text-decoration: none;
-  font-size: 20px;
 }
 
 .columna {
