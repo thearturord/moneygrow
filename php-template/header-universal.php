@@ -1,8 +1,8 @@
 <header class="header">
 
   <div class="logo">
-    <a href="index.php"> <img src="img/logo.png" alt="Logo"></a>
-    <!-- <a href="index.php"> -->
+    <a href="index "> <img src="img/logo.png" alt="Logo"></a>
+    <!-- <a href="index "> -->
     </a>
   </div>
 
@@ -24,10 +24,10 @@
 
 
     <ul class="nav-boton" id="lista">
-      <li><a href="index.php">HOME</a></li>
-      <li><a href="about-us.php">ABOUT US</a></li>
-      <li><a href="privacy.php">PRIVACY POLICY</a></li>
-      <li><a href="contacto.php">CONTACT US</a></li>
+      <li><a href="index ">HOME</a></li>
+      <li><a href="about-us ">ABOUT US</a></li>
+      <li><a href="privacy ">PRIVACY POLICY</a></li>
+      <li><a href="contacto ">CONTACT US</a></li>
       <li><a href="#">MAKE MONEY ONLINE</a></li>
     </ul>
 
