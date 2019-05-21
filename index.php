@@ -59,7 +59,7 @@
         <article class="main">
 
 
-          <a href="post1">
+          <a href="post-1">
             <h2>What is Forex?</h2><br><br>
           </a>
 
@@ -81,7 +81,7 @@
           </p>
 
           <div class="read-flex">
-            <a class="read" href="post1 ">Continue reading</a>
+            <a class="read" href="post-1">Continue reading</a>
           </div>
 
         </article>
@@ -89,7 +89,7 @@
         <article class="main">
 
 
-          <a href="post2 ">
+          <a href="post-2">
             <h2>What is trading and how do you earn money by investing?</h2><br><br>
           </a>
 
@@ -110,7 +110,7 @@
           </p>
 
           <div class="read-flex">
-            <a class="read" href="post2 ">Continue reading</a>
+            <a class="read" href="post-2">Continue reading</a>
           </div>
 
         </article>
@@ -118,7 +118,7 @@
         <article class="main">
 
 
-          <a href="post3 ">
+          <a href="post-3">
             <h2>Risk Control</h2><br><br>
           </a>
 
@@ -140,7 +140,7 @@
             2. Limit the size of the position in which a specific account size is invested ("limit leverage").</p>
 
           <div class="read-flex">
-            <a class="read" href="post3 ">Continue reading</a>
+            <a class="read" href="post-3">Continue reading</a>
           </div>
 
         </article>
@@ -148,7 +148,7 @@
         <article class="main">
 
 
-          <a href="post4 ">
+          <a href="post-4">
             <h2>Financial Education</h2><br><br>
           </a>
 
@@ -170,7 +170,7 @@
 
 
           <div class="read-flex">
-            <a class="read" href="post4 ">Continue reading</a>
+            <a class="read" href="post-4">Continue reading</a>
           </div>
 
         </article>

@@ -47,7 +47,7 @@
 
         <article class="main">
 
-          <a href="post5">
+          <a href="post-5">
             <h2>4 of the most successful forex traders in the world</h2><br><br>
           </a>
 
@@ -66,7 +66,7 @@
 
 
           <div class="read-flex">
-            <a class="read" href="post5">Continue reading</a>
+            <a class="read" href="post-5">Continue reading</a>
           </div>
 
         </article>
@@ -74,7 +74,7 @@
         <article class="main">
 
 
-          <a href="post6">
+          <a href="post-6">
             <h2>School of business</h2><br><br>
           </a>
 
@@ -94,7 +94,7 @@
           <p>The MBA program is designed for professionals who work part time; The program also accommodates those students who wish to study full-time. Night classes and summer courses.</p>
 
           <div class="read-flex">
-            <a class="read" href="post6">Continue reading</a>
+            <a class="read" href="post-6">Continue reading</a>
           </div>
 
         </article>
@@ -102,7 +102,7 @@
         <article class="main">
 
 
-          <a href="post7">
+          <a href="post-7">
             <h2>The idea behind the forex strategy</h2><br><br>
           </a>
 
@@ -122,7 +122,7 @@
           <p>What happens if you have 10 operations lost? Will you continue trading until you reach 10 pips of profit for the day?</p>
 
           <div class="read-flex">
-            <a class="read" href="post7">Continue reading</a>
+            <a class="read" href="post-7">Continue reading</a>
           </div>
 
         </article>
@@ -130,7 +130,7 @@
         <article class="main">
 
 
-          <a href="post8">
+          <a href="post-8">
             <h2>Security in your transactions</h2><br><br>
           </a>
 
@@ -148,7 +148,7 @@
           <p>Trading in the Forex market is a risky activity. This warning is for informational purposes and does not indicate that all of the aforementioned risks may occur directly to you. The main objective is to inform the client about all commercial and non-speculative risks, which may occur while working in the Forex market. First, you must identify the purpose of your deposit and never add more deposits if the loss can have a negative impact on your budget. Operations in the foreign exchange market are dangerous due to the possibility of incurring uncontrolled losses.</p>
 
           <div class="read-flex">
-            <a class="read" href="post8">Continue reading</a>
+            <a class="read" href="post-8">Continue reading</a>
           </div>
 
         </article>
@@ -167,7 +167,10 @@
       <a href="index">1</a>
     </div>
     <div class="home-b">
-      <a href="home2">2</a>
+      <a href="home-2">2</a>
+    </div>
+    <div class="home-b">
+      <a href="home-3">3</a>
     </div>
   </div>
 

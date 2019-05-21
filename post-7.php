@@ -94,13 +94,11 @@
           <h3>Fundamental analysis in Forex</h3>
 
           <p>
-            Fundamental analysis is a way of observing the market by analyzing the economic, political and social forces that affect supply and demand in the currency market. For this it is important to know the main events and macroeconomic data of
-            the world economy, a good tool to know when they are going to officially produce these economic ads is the Forex economic calendar.
+            Fundamental analysis is a way of observing the market by analyzing the economic, political and social forces that affect supply and demand in the currency market. For this it is important to know the main events and macroeconomic data of the world economy, a good tool to know when they are going to officially produce these economic ads is the Forex economic calendar.
           </p>
 
           <p>
-            The fundamental analysis starts from the fact that if the current or future economic perspective of a country is good, its currency will be reinforced. If the demand for a country's goods and services increases, or the number of people
-            who want to invest there is growing, they will need to buy the currency of that country before they can buy their goods or invest and then the value of the currency is likely I went up.
+            The fundamental analysis starts from the fact that if the current or future economic perspective of a country is good, its currency will be reinforced. If the demand for a country's goods and services increases, or the number of people who want to invest there is growing, they will need to buy the currency of that country before they can buy their goods or invest and then the value of the currency is likely I went up.
           </p>
 
 

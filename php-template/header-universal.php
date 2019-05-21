@@ -24,10 +24,10 @@
 
 
     <ul class="nav-boton" id="lista">
-      <li><a href="index ">HOME</a></li>
-      <li><a href="about-us ">ABOUT US</a></li>
-      <li><a href="privacy ">PRIVACY POLICY</a></li>
-      <li><a href="contacto ">CONTACT US</a></li>
+      <li><a href="index">HOME</a></li>
+      <li><a href="about-us">ABOUT US</a></li>
+      <li><a href="privacy">PRIVACY POLICY</a></li>
+      <li><a href="contact">CONTACT US</a></li>
       <li><a href="#">MAKE MONEY ONLINE</a></li>
     </ul>
 

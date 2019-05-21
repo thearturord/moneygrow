@@ -104,17 +104,6 @@
 
   </div>
 
-  <!-- <div class="home-no">
-
-    <div class="home-b">
-      <a href="index.php">1</a>
-    </div>
-    <div class="home-b">
-      <a href="home2.php">2</a>
-    </div>
-
-  </div> -->
-
 <?php include("php-template/footer.php") ?>
 
   <script type="text/javascript" src="js/javascript.js"></script>

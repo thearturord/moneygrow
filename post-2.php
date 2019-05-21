@@ -123,7 +123,7 @@
             investment as a vehicle to improve the finances of users and many other specialists in investment in stocks, forex and cryptocurrencies. You can see the event information here Smart Investor Summit.</p>
 
           <p>
-            This is the first installment of several articles that I will write about trading so leave me your questions <a target="_blank" href="contacto.php">here</a>
+            This is the first installment of several articles that I will write about trading so leave me your questions <a target="_blank" href="contact">here</a>
           </p>
         </article>
 

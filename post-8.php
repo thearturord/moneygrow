@@ -24,15 +24,6 @@
 
   <div class="contenedordetodo">
 
-
-
-    <!--
-    <div class="subtitulo">
-
-      <h1>Todas las noticias al dia!</h1>
-
-    </div> -->
-
     <section class="section">
 
       <div class="articulos">
@@ -87,8 +78,6 @@
           </ul>
 
           <p>Financial education helps to generate financial freedom in a lasting way, because if you get a large amount of money, but it is managed incorrectly, it can quickly evaporate. The secret is to generate base profits to be used in reinvestment, to control census expenses, and to be continuously educated with the best quality financial information.</p>
-
-
 
         </article>
 
