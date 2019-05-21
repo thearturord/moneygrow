@@ -38,7 +38,7 @@
 
 <body>
 
-<?php include("php-template/header-universal.php") ?>
+<?php include("php-template/header-universal ") ?>
 
   <div class="contenedordetodo">
 
@@ -81,7 +81,7 @@
           </p>
 
           <div class="read-flex">
-            <a class="read" href="post1.php">Continue reading</a>
+            <a class="read" href="post1 ">Continue reading</a>
           </div>
 
         </article>
@@ -89,7 +89,7 @@
         <article class="main">
 
 
-          <a href="post2.php">
+          <a href="post2 ">
             <h2>What is trading and how do you earn money by investing?</h2><br><br>
           </a>
 
@@ -110,7 +110,7 @@
           </p>
 
           <div class="read-flex">
-            <a class="read" href="post2.php">Continue reading</a>
+            <a class="read" href="post2 ">Continue reading</a>
           </div>
 
         </article>
@@ -118,7 +118,7 @@
         <article class="main">
 
 
-          <a href="post3.php">
+          <a href="post3 ">
             <h2>Risk Control</h2><br><br>
           </a>
 
@@ -140,7 +140,7 @@
             2. Limit the size of the position in which a specific account size is invested ("limit leverage").</p>
 
           <div class="read-flex">
-            <a class="read" href="post3.php">Continue reading</a>
+            <a class="read" href="post3 ">Continue reading</a>
           </div>
 
         </article>
@@ -148,7 +148,7 @@
         <article class="main">
 
 
-          <a href="post4.php">
+          <a href="post4 ">
             <h2>Financial Education</h2><br><br>
           </a>
 
@@ -170,14 +170,14 @@
 
 
           <div class="read-flex">
-            <a class="read" href="post4.php">Continue reading</a>
+            <a class="read" href="post4 ">Continue reading</a>
           </div>
 
         </article>
 
       </div>
 
-  <?php include("php-template/aside.php") ?>
+  <?php include("php-template/aside ") ?>
     </section>
 
 
@@ -185,14 +185,14 @@
 
   <div class="home-no">
     <div class="home-b">
-      <a href="index.php">1</a>
+      <a href="index ">1</a>
     </div>
     <div class="home-b">
-      <a href="home2.php">2</a>
+      <a href="home2 ">2</a>
     </div>
   </div>
 
-<?php include("php-template/footer.php") ?>
+<?php include("php-template/footer ") ?>
 
   <script type="text/javascript" src="js/javascript.js"></script>
 
