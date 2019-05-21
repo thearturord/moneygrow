@@ -38,7 +38,7 @@
 
 <body>
 
-<?php include("php-template/header-universal ") ?>
+<?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
 
@@ -177,7 +177,7 @@
 
       </div>
 
-  <?php include("php-template/aside ") ?>
+  <?php include("php-template/aside.php") ?>
     </section>
 
 
@@ -192,7 +192,7 @@
     </div>
   </div>
 
-<?php include("php-template/footer ") ?>
+<?php include("php-template/footer.php") ?>
 
   <script type="text/javascript" src="js/javascript.js"></script>
 
