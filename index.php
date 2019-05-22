@@ -42,15 +42,6 @@
 
   <div class="contenedordetodo">
 
-
-
-    <!--
-    <div class="subtitulo">
-
-      <h1>Todas las noticias al dia!</h1>
-
-    </div> -->
-
     <section class="section">
 
       <div class="articulos">
