@@ -24,15 +24,6 @@
 
   <div class="contenedordetodo">
 
-
-
-    <!--
-    <div class="subtitulo">
-
-      <h1>Todas las noticias al dia!</h1>
-
-    </div> -->
-
     <section class="section">
 
       <div class="articulos">
@@ -41,7 +32,7 @@
         <article class="main">
 
 
-          <h2 class="h2">Beginner's Guide to Forex Trading</h2><br><br>
+          <h2 class="h2">Beginner's Guide to Forex Trading</h2>  <br><br>
 
           <div class="logo-wrap">
             <img class="logo-test" src="img/post11.jpg" alt="">

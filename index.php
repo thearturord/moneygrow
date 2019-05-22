@@ -171,6 +171,7 @@
   <?php include("php-template/aside.php") ?>
     </section>
 
+  <?php include("php-template/botone.php") ?>
 
   </div>
 
