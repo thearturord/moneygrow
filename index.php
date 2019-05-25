@@ -54,7 +54,6 @@
             <h2>What is Forex?</h2><br><br>
           </a>
 
-
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
 
           <div class="logo-wrap">
@@ -83,7 +82,6 @@
           <a href="post-2">
             <h2>What is trading and how do you earn money by investing?</h2><br><br>
           </a>
-
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
 
