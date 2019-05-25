@@ -36,7 +36,7 @@
       <ul class="social-media">
         <li><a target="_blank" href="https://www.facebook.com/forexmoneygrow/"></a></li> <!-- facebook -->
         <li><a target="_blank" href="https://www.instagram.com/forexmoneygrow/"></a></li> <!-- IG -->
-        <li><a href="#"></a></li> <!-- SnapChat -->
+        <li><a target="_blank" href="https://www.snapchat.com/add/forexmoneygrow"></a></li> <!-- SnapChat -->
       </ul>
 
 
