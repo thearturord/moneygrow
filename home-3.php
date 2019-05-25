@@ -123,6 +123,30 @@
 
         </article>
 
+        <article class="main">
+
+          <a href="post-12">
+            <h2>Why will I do not invest in bitcoin or cryptocurrencies?</h2><br><br>
+          </a>
+
+          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+
+          <div class="logo-wrap">
+            <img class="logo-test" src="img/post12.jpg" alt="">
+          </div>
+
+          <p>I write this after seeing in the news that "bitcoin loses more than 30% of value in its worst week since 2013". We are more than used to hear that the bitcoin collapses and shoots up. Normally, an investment with this degree of volatility is only assumed by very expert speculators and yet in my environment I know many people who are investing in bitcoin. Globally, alarming things are being heard that should be of concern to regulators.</p>
+
+        <h3>Why do many people invest in bitcoin?</h3>
+
+             <p>Bitcoin and its technology brought the promise of having an anonymous exchange medium without intermediaries. Actually, this already exists: pay in cash. The advantage of paying with cryptocurrency would be to make it easier to pay at a distance. However, in the real world, buying something with bitcoin or transferring funds - for example to a relative in another country - is not easy at all. There is no app that makes it easy even though many startups are trying it. And even if it becomes usable, the fees are so high that it would not be worth it. Using it to send money to another country and exchange it for traditional currency using a bitcoin ATM can cost 15% commission between issuance and withdrawal.</p>
+
+          <div class="read-flex">
+            <a class="read" href="post-12">Continue reading</a>
+          </div>
+
+        </article>
+
 
       </div>
 
