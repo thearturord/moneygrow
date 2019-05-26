@@ -60,6 +60,32 @@
 
         </article>
 
+        <article class="main">
+
+          <a href="post-14">
+            <h2>How does the stock market works?</h2><br><br>
+          </a>
+
+          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+
+          <div class="logo-wrap">
+            <img class="logo-test" src="img/post14.jpg" alt="">
+          </div>
+
+          <p>We all have a more or less close idea of ​​what the Stock Exchange is. We can not define it accurately, but several images come to our mind as soon as we hear about this concept. And you, could you tell us what exactly? Do you have any idea how the Stock Exchange works?</p>
+
+          <h3>Stock stock, some general considerations</h3>
+
+          <p>The Stock Exchange, remember, is that space in which shares of companies are bought and sold. It does not exist as such; that is to say, it is not a physical place as they are, for example, the headquarters of companies or financial corporations.</p>
+
+          <p>This does not mean, however, that it has no impact on organizations or physical entities. On the contrary, many of the movements that take place in the Stock Exchange determine the present and future performance of all the companies that participate actively in it.</p>
+
+          <div class="read-flex">
+            <a class="read" href="post-14">Continue reading</a>
+          </div>
+
+        </article>
+
 
       </div>
 
