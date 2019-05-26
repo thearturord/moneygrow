@@ -110,6 +110,30 @@
 
         </article>
 
+        <article class="main">
+
+          <a href="post-16">
+            <h2>Alternative criptodivises to the bitcoin to invest.</h2><br><br>
+          </a>
+
+          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+
+          <div class="logo-wrap">
+            <img class="logo-test" src="img/post16.jpg" alt="">
+          </div>
+
+          <p>The cryptocurrencies have had an incredible year, with Bitcoin at the helm. It sounds tremendously ambitious and incredible to be able to get the 1 000% return on an investment in a year, and it certainly deserves a lot of attention. However, other cryptocurrencies also had wonderful returns, even though they did not receive as much attention as Bitcoin. In the past, even I myself have focused a lot on Bitcoin, but today we will see other potentially profitable alternatives to Bitcoin and that it is worth knowing to invest.</p>
+
+          <h3>ETHEREUM</h3>
+
+          <p>In my opinion, the Ethereum is the small and ambitious brother of Bitcoin, and has also been at the center of all eyes for some time drawing attention. Earlier this year, the Ether tokens were worth less than $ 10 each. In mid-June, Ether exceeded $ 400 to achieve a return of around 4,000%. The cryptocurrency is now worth around $ 300 and has fluctuated around this price during the past months. Experts predict that its value will increase to reach, and perhaps exceed, $ 1,000 in 2018, depending on price patterns. (Know what awaits Ethereum in 2018 by reading our article Perspectives of Ethereum for 2018).</p>
+
+          <div class="read-flex">
+            <a class="read" href="post-16">Continue reading</a>
+          </div>
+
+        </article>
+
 
       </div>
 
