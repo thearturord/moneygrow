@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en-US" dir="ltr">
 
 <head>
   <link rel="shortcut icon" href="img/logo2.png">
@@ -21,7 +21,7 @@
 <body>
 
   <div id="fb-root"></div>
-  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
 
 <?php include("php-template/header-universal.php") ?>
 
@@ -93,7 +93,7 @@
         </article>
 
         <div class="comments">
-        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-20" data-width="" data-numposts="5"></div>
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-20" data-width="" data-numposts="100"></div>
         </div>
 
       </div>

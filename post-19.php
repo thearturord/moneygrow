@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en-US" dir="ltr">
 
 <head>
   <link rel="shortcut icon" href="img/logo2.png">
@@ -109,7 +109,7 @@
         </article>
 
         <div class="comments">
-        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-19" data-width="" data-numposts="5"></div>
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-19" data-width="" data-numposts="100"></div>
         </div>
 
       </div>
