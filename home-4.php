@@ -42,7 +42,7 @@
             <h2>The lavish enigma of the creator of bitcoin.</h2><br><br>
           </a>
 
-          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+          <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
 
           <div class="logo-wrap">
             <img class="logo-test" src="img/post13.jpg" alt="">
@@ -66,7 +66,7 @@
             <h2>How does the stock market works?</h2><br><br>
           </a>
 
-          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+          <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
 
           <div class="logo-wrap">
             <img class="logo-test" src="img/post14.jpg" alt="">
@@ -92,7 +92,7 @@
             <h2>The importance of economic training in everyday life.</h2><br><br>
           </a>
 
-          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+          <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
 
           <div class="logo-wrap">
             <img class="logo-test" src="img/post15.jpg" alt="">
@@ -116,7 +116,7 @@
             <h2>Alternative criptodivises to the bitcoin to invest.</h2><br><br>
           </a>
 
-          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+          <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
 
           <div class="logo-wrap">
             <img class="logo-test" src="img/post16.jpg" alt="">
