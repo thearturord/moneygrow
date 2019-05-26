@@ -86,6 +86,30 @@
 
         </article>
 
+        <article class="main">
+
+          <a href="post-15">
+            <h2>The importance of economic training in everyday life.</h2><br><br>
+          </a>
+
+          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+
+          <div class="logo-wrap">
+            <img class="logo-test" src="img/post15.jpg" alt="">
+          </div>
+
+          <p>When the crisis seemed to put an end to this expansion, neoliberalism has responded with greater virulence. Could the situation that caused the crisis have been avoided? Why has it been done that way? Were not there other alternatives? We have lived beyond our possibilities? What will our lives be like when this tsunami happens? What happens at the macroeconomic level is affecting the environment in which we operate.</p>
+
+          <p>People are at the mercy of the economy with barely layers that isolate us. Until well into the 70s, in Spain, with knowing how to buy, save and invest in a fixed term we had enough. The speed at which changes occur in the economic sphere is much higher than the speed at which we are adapting, so there is a mismatch that we are suffering in some way.</p>
+
+          <p>The OECD PISA report collected a section in 2012 measuring the financial literacy of young people (15 years old) from 18 countries. 13 of them members of the OECD. The results for Spain have not been flattering, obtaining an average score of 484, compared to the average of the OECD countries of 500, being only ahead of Croatia, Israel, Slovakia, Italy and Colombia.</p>
+
+          <div class="read-flex">
+            <a class="read" href="post-15">Continue reading</a>
+          </div>
+
+        </article>
+
 
       </div>
 
