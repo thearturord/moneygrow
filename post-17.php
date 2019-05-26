@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -74,6 +77,10 @@
           <p>Trading works in the same way. We constantly strive to explore new methods, integrating ideas when appropriate, and introducing variables into the work system that show great statistical significance. And we know that if we succeed, it is most likely that, for other volatile context variables, we obtain the suppression effect. In simple words: <b>if we develop a system that provides stability and growth, and at the same time we try to suppress the influence of context variables as much as possible, that system will be easier to follow, and the probability of incorrect decisions will be minimized. due to emotions and monetary losses in this regard...</b></p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-17" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

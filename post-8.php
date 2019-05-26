@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -80,6 +83,10 @@
           <p>Financial education helps to generate financial freedom in a lasting way, because if you get a large amount of money, but it is managed incorrectly, it can quickly evaporate. The secret is to generate base profits to be used in reinvestment, to control census expenses, and to be continuously educated with the best quality financial information.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-8" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

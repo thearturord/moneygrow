@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -88,6 +91,10 @@
           <p>Just give you some advice: "Never leave your money to someone who does not trust or is 100% reliable." So that you do not fall into this error, we offer you a smart list that only includes the best Forex brokers, in this list you will find regulated and trusted brokers.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-20" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

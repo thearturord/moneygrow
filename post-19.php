@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -104,6 +107,10 @@
           <p>Finally, we leave you with a video about whether it is really profitable to invest in the stock market in the long term, and what is the real difference between trading and investing in the long term, and answer the question of what are the differences in terms of costs, in terms of performance, and in terms of effort.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-19" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

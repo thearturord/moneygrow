@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -59,6 +62,10 @@
       <p>Craig Steven Wright, an Australian academic and entrepreneur of 46 years, has been the name that has had most strength as a precursor of the decentralized currency. He was arrested in 2015 and last year claimed that he was Satoshi Nakamoto. An announcement that uncovered hours later the doubts of the experts, who lamented that it was mere publicity of their companies, causing Wright had to go publicly to retract. He did it without giving any obvious evidence, thus passing a new page of a story of enigmas and mysteries.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-13" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

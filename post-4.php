@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -96,6 +99,10 @@
          When the person is the owner of their own business, it is vital that they can have access to credit because there are very few companies in the world today that do not use loans for working capital, improve the liquidity of the business, consolidate debts, acquire equipment, physical plant and a large number of solutions that are accessed through a debt planned and assumed responsibly.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-4" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -83,10 +86,11 @@
 
           <p>And if the trader obtains some benefit from a bad broker, the market maker uses fraudulent practices that at first are not obvious - the market maker will look for their Stop-Losses, will expand the spreads at the time of execution of operations, freeze their platform trading meanwhile, and so on.</p>
 
-
-
-
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-10" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

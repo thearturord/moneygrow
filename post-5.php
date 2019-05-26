@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -96,6 +99,10 @@
           <p>He took his first steps in investments while attending college. He started operating in venture capital after inheriting $ 12,000 from his grandmother's death, quickly converted them into $ 250,000, then lost all his capital due to a bad business decision and a market shift. This loss taught him the importance of risk management, which he would then apply for the rest of his career.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-5" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

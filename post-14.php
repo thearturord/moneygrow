@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -64,6 +67,10 @@
     <p>The Stock Exchange supposes enormous possibilities of increasing (or recovering) the profits of the companies. The key is to make the offer attractive and attract the attention of a good number of investors.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-14" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

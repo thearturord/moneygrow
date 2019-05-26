@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -54,6 +57,10 @@
           <p>It is clear that the economy is part of our environment from very small. Concepts such as scarcity and value we know how to apply without hardly knowing that we do it. When we were playing as children exchanging football cards, we knew that there were some who came out less in the envelopes, and it was precisely these that we exchanged for more cards. When compulsory education ends, we must choose between continuing to study or going to work; It is considered an economic decision because we value the costs of continuing to study against possible income if we enter the labor market.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-15" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

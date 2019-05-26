@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -126,6 +129,12 @@
             This is the first installment of several articles that I will write about trading so leave me your questions <a target="_blank" href="contact">here</a>
           </p>
         </article>
+
+        <div class="comments">
+
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-2" data-width="" data-numposts="5"></div>
+
+        </div>
 
       </div>
 

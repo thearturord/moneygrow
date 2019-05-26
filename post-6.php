@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -72,6 +75,10 @@
           <p>Visiting invited speakers, with a variety of specialties, and the course links to the Chartered Management Institute (CMI) will improve your knowledge. Students come from a wide variety of backgrounds, with a diverse business experience, contributing to a dynamic learning experience that includes business simulations, problem solving and combined learning.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-6" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

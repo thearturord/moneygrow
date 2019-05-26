@@ -134,6 +134,14 @@ font-size: 20px;
   padding: 8px 10px;
 }
 
+.comments{
+  margin-bottom: 15px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 2px;
+  text-align: center;
+}
+
 /*Cell screen mode*/
 @media only screen and (max-width:548px){
 

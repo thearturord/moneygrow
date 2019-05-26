@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -100,6 +103,10 @@
           <p>In fact, there is little data available to analyze this approach, and it is not easy to find a history of changes in the proportion of positions for at least one of the currency pairs. But I am sure that from this idea it is possible to build a profitable system, you only need to collect this data and thoroughly test the strategy in a sufficient amount of them. To convince yourself of the convenience of doing more research.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-18" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

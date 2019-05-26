@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -42,7 +45,7 @@
 
         <h3>Why do many people invest in bitcoin?</h3>
 
-      <p> 
+      <p>
         Bitcoin and its technology brought the promise of having an anonymous exchange medium without intermediaries. Actually, this already exists: pay in cash. The advantage of paying with cryptocurrency would be to make it easier to pay at a distance. However, in the real world, buying something with bitcoin or transferring funds - for example to a relative in another country - is not easy at all. There is no app that makes it easy even though many startups are trying it. And even if it becomes usable, the fees are so high that it would not be worth it. Using it to send money to another country and exchange it for traditional currency using a bitcoin ATM can cost 15% commission between issuance and withdrawal.</p>
 
         <p>In turn, if we do not use it to buy or send money but to invest, intermediaries charge several types of commissions for operating with bitcoins:</p>
@@ -77,6 +80,10 @@
         <p>It is not possible to  use a currency for daily transactions if its value is erratic. Without stability, no one will ask for a loan in that currency or use it to make purchases.</p>
 
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-12" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 

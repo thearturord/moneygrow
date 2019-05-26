@@ -20,6 +20,9 @@
 
 <body>
 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.3"></script>
+
 <?php include("php-template/header-universal.php") ?>
 
   <div class="contenedordetodo">
@@ -92,9 +95,11 @@
           <p>Therefore, if you are thinking of starting a business, start trading in the Forex world or invest in the financial markets, from Eagles investors we suggest you to use it thoroughly, and prepare a strategy that begins with your financial
             education.</p>
 
-
-
         </article>
+
+        <div class="comments">
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-3" data-width="" data-numposts="5"></div>
+        </div>
 
       </div>
 
