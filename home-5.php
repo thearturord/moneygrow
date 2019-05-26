@@ -106,10 +106,10 @@
 
         </article>
 
-        <!-- <article class="main">
+        <article class="main">
 
           <a href="post-20">
-            <h2> </h2><br><br>
+            <h2>The 10 worst scammers in the history of the Forex market</h2><br><br>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
@@ -118,13 +118,17 @@
             <img class="logo-test" src="img/post20.jpg" alt="">
           </div>
 
+          <p>The scams in the Forex market appeared after the decentralization of the industry, and although the regulators fight against the possible deceptions and scams, these, unfortunately, continue to affect the players of the forex market. To avoid falling into one of them, in this article we review the 10 worst scams that have been discovered. We recommend that you read the article carefully to detect possible patterns in order to discover a future scam.</p>
 
+          <h3>KEITH SIMMONS AND DEANNE SALAZAR</h3>
+
+          <p>These two people were responsible for the elaborate Forex scam known as Black Diamond that took place between 2007 and 2010. The couple operated several hedge funds, along with other partners aware of the crime they were committing, which attracted customers to invest in the Forex market. From 2007 to 2010, more than 240 clients had invested a total of 35 million US dollars.</p>
 
           <div class="read-flex">
             <a class="read" href="post-20">Continue reading</a>
           </div>
 
-        </article> -->
+        </article>
 
 
 
