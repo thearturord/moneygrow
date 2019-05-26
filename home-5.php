@@ -39,7 +39,7 @@
         <article class="main">
 
           <a href="post-17">
-            <h2>How to take advantage of the Psychology of 90% of the lost traders?</h2><br><br>
+            <h2>How to take advantage of the Psychology of 90% of the lost traders?</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
@@ -61,7 +61,7 @@
         <article class="main">
 
           <a href="post-18">
-            <h2>How can the knowledge of finance be used in practice?</h2><br><br>
+            <h2>How can the knowledge of finance be used in practice?</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
@@ -85,7 +85,7 @@
         <article class="main">
 
           <a href="post-19">
-            <h2>New regulations for Forex brokers in Russia 2019</h2><br><br>
+            <h2>New regulations for Forex brokers in Russia 2019</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
@@ -109,7 +109,7 @@
         <article class="main">
 
           <a href="post-20">
-            <h2>The 10 worst scammers in the history of the Forex market</h2><br><br>
+            <h2>The 10 worst scammers in the history of the Forex market</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>

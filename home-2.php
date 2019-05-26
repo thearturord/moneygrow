@@ -48,7 +48,7 @@
         <article class="main">
 
           <a href="post-5">
-            <h2>4 of the most successful forex traders in the world</h2><br><br>
+            <h2>4 of the most successful forex traders in the world</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
@@ -75,7 +75,7 @@
 
 
           <a href="post-6">
-            <h2>School of business</h2><br><br>
+            <h2>School of business</h2>
           </a>
 
 
@@ -103,7 +103,7 @@
 
 
           <a href="post-7">
-            <h2>The idea behind the forex strategy</h2><br><br>
+            <h2>The idea behind the forex strategy</h2>
           </a>
 
 
@@ -131,7 +131,7 @@
 
 
           <a href="post-8">
-            <h2>Security in your transactions</h2><br><br>
+            <h2>Security in your transactions</h2>
           </a>
 
 

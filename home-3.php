@@ -39,7 +39,7 @@
         <article class="main">
 
           <a href="post-9">
-            <h2>10 things you should know about the Forex market</h2><br><br>
+            <h2>10 things you should know about the Forex market</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
@@ -66,7 +66,7 @@
         <article class="main">
 
           <a href="post-10">
-            <h2>What Forex Brokers Never Want you to Know!</h2><br><br>
+            <h2>What Forex Brokers Never Want you to Know!</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
@@ -95,7 +95,7 @@
         <article class="main">
 
           <a href="post-11">
-            <h2>Beginner's Guide to Forex Trading</h2><br><br>
+            <h2>Beginner's Guide to Forex Trading</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
@@ -126,7 +126,7 @@
         <article class="main">
 
           <a href="post-12">
-            <h2>Why will I do not invest in bitcoin or cryptocurrencies?</h2><br><br>
+            <h2>Why will I do not invest in bitcoin or cryptocurrencies?</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>

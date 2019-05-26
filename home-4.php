@@ -39,7 +39,7 @@
         <article class="main">
 
           <a href="post-13">
-            <h2>The lavish enigma of the creator of bitcoin.</h2><br><br>
+            <h2>The lavish enigma of the creator of bitcoin.</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
@@ -63,7 +63,7 @@
         <article class="main">
 
           <a href="post-14">
-            <h2>How does the stock market works?</h2><br><br>
+            <h2>How does the stock market works?</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
@@ -89,7 +89,7 @@
         <article class="main">
 
           <a href="post-15">
-            <h2>The importance of economic training in everyday life.</h2><br><br>
+            <h2>The importance of economic training in everyday life.</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>
@@ -113,7 +113,7 @@
         <article class="main">
 
           <a href="post-16">
-            <h2>Alternative criptodivises to the bitcoin to invest.</h2><br><br>
+            <h2>Alternative criptodivises to the bitcoin to invest.</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 26/05/2019</time>

@@ -51,7 +51,7 @@
 
 
           <a href="post-1">
-            <h2>What is Forex?</h2><br><br>
+            <h2>What is Forex?</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
@@ -80,7 +80,7 @@
 
 
           <a href="post-2">
-            <h2>What is trading and how do you earn money by investing?</h2><br><br>
+            <h2>What is trading and how do you earn money by investing?</h2>
           </a>
 
           <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
@@ -108,7 +108,7 @@
 
 
           <a href="post-3">
-            <h2>Risk Control</h2><br><br>
+            <h2>Risk Control</h2>
           </a>
 
 
@@ -121,12 +121,13 @@
           <p>
             In order for an investment to be successful, it is fundamental to control the risk. Although it is more exciting to focus on the benefits of trade, each investor should also know what they are willing to lose in the investment before
             cutting losses, and also in the account. </p>
-          <p>
-            You can control risk in two ways:</p>
-          <p>
-            1. retire before the losses exceed the predetermined maximum tolerance ("cut losses").<br><br>
 
-            2. Limit the size of the position in which a specific account size is invested ("limit leverage").</p>
+          <p>You can control risk in two ways:</p>
+
+          <ul>
+            <li>1. retire before the losses exceed the predetermined maximum tolerance ("cut losses").</li>
+            <li>2. Limit the size of the position in which a specific account size is invested ("limit leverage").</li>
+          </ul>
 
           <div class="read-flex">
             <a class="read" href="post-3">Continue reading</a>
@@ -138,7 +139,7 @@
 
 
           <a href="post-4">
-            <h2>Financial Education</h2><br><br>
+            <h2>Financial Education</h2>
           </a>
 
 
