@@ -43,7 +43,7 @@
 
         <article class="main">
 
-
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/oQ-XcdN73hc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
           <h2 class="h2">What is Forex?</h2><br><br>
 
