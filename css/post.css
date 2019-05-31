@@ -142,6 +142,17 @@ font-size: 20px;
   text-align: center;
 }
 
+.ver-mas{
+  border-radius: 10px;
+  background-color: #52BE80;
+  color: white;
+  padding:1%;
+}
+
+.ver-mas-wrap{
+  height: 25px;
+}
+
 /*Cell screen mode*/
 @media only screen and (max-width:548px){
 
