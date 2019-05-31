@@ -227,16 +227,14 @@
     margin: 0;
   }
 
-  .subtitulo {
-    width: 100%;
-  }
+  .read-flex{
+    display: flex;
+    justify-content: center;
 
-  .subtitulo h1 {
-    font-size: 20px;
   }
 
   .main a {
     padding-left: 0;
-    padding: 4px 0;
+    padding: 9px;
   }
 }

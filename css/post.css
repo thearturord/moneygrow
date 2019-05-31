@@ -164,17 +164,13 @@ font-size: 20px;
   .social-media{
     margin: 0;
   }
-  .subtitulo{
-    width: 100%;
-  }
 
-  .subtitulo h1 {
-    font-size: 20px;
-  }
-
-  .main a {
-   padding-left: 0;
-   padding: 4px 0;
+  .ver-mas{
+    border-radius: 10px;
+    background-color: #52BE80;
+    color: white;
+    padding:2%;
+    font-size: 18px;
   }
 
 }
