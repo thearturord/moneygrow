@@ -23,6 +23,7 @@
     });
   </script>
 
+  <?php include("php-template\google-analytics.php") ?>
 
 </head> <!-- end of head --->
 
