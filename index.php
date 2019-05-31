@@ -33,8 +33,6 @@
   gtag('config', 'UA-134739791-3', { 'optimize_id': 'GTM-KVDZ75V'} );
   </script>
 
-  <?php include("php-template\Google-Analytics.php") ?>
-
 </head> <!-- end of head --->
 
 <body>
