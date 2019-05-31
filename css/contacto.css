@@ -77,10 +77,18 @@ margin-bottom: 2px;
 }
 
 .boton-mensaje{
- padding: 5px;
+ padding: 6px;
  position:relative;
  display: block;
+ background-color: #008C61;
+ color:white;
+ border-radius: 3px;
+ font-size: 16px;
+ border: none;
+}
 
+.boton-mensaje:hover{
+  padding: 8px;
 }
 
 .email-alt{
@@ -110,6 +118,9 @@ margin-bottom: 2px;
 .mensaje-label{
   font-size: 19px;
   padding: 5px;
+}
 
+.email-alt{
+  text-align: center;
 }
 }
