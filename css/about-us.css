@@ -1,4 +1,4 @@
-a{
+a {
   color: #0274be;
 }
 
@@ -12,7 +12,7 @@ a{
   flex-basis: 85%;
 }
 
-.about-us-content{
+.about-us-content {
   display: flex;
   flex-direction: column;
 }
@@ -25,14 +25,14 @@ a{
   text-align: center;
 }
 
-.main header h1{
+.main header h1 {
   font-size: 47px;
   font-family: "Source Sans Pro", arial, sans-serif;
   font-weight: 400;
   /* color: #0274be; */
   -webkit-font-smoothing: antialiased;
   text-align: center;
-  display:block;
+  display: block;
 }
 
 .main h2 {
@@ -46,14 +46,14 @@ a{
   padding: 15px 0;
 }
 
-.h2-1::before{
- content:"\f059";
- font-family:"FontAwesome";
- font-weight: 400;
- padding-right: 1%;
+.h2-1::before {
+  content: "\f059";
+  font-family: "FontAwesome";
+  font-weight: 400;
+  padding-right: 1%;
 }
 
-.h2-1::after{
+.h2-1::after {
   content: "";
   position: relative;
   left: 50%;
@@ -61,18 +61,18 @@ a{
   border-bottom: 4px solid #EAEEEF;
 }
 
-.h2-2::before{
- content:"\f059";
- font-family:"FontAwesome";
- font-weight: 400;
- padding-right: 1%;
+.h2-2::before {
+  content: "\f059";
+  font-family: "FontAwesome";
+  font-weight: 400;
+  padding-right: 1%;
 }
 
-.h2-3::before{
- content:"\f059";
- font-family:"FontAwesome";
- font-weight: 400;
- padding-right: 1%;
+.h2-3::before {
+  content: "\f059";
+  font-family: "FontAwesome";
+  font-weight: 400;
+  padding-right: 1%;
 }
 
 .main p {
@@ -86,12 +86,12 @@ a{
   padding: 8px 10px;
 }
 
-.main h3{
+.main h3 {
   padding: 5px 0;
   font-size: 25px;
 }
 
-.main ul{
+.main ul {
   display: inline-block;
   font-size: 20px;
   font-family: 'Source Sans Pro', sans-serif;
@@ -101,16 +101,14 @@ a{
   color: #333;
   text-align: justify;
   padding-left: 5%;
-
 }
 
-.main ul li{
-    display: list-item;
-    color: #333;
-    font-weight: 400;
-    line-height: 1.833;
+.main ul li {
+  display: list-item;
+  color: #333;
+  font-weight: 400;
+  line-height: 1.833;
 }
-
 
 /*Cell screen mode*/
 @media only screen and (max-width:548px) {

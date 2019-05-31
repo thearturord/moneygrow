@@ -1,4 +1,4 @@
-.logo-test{
+.logo-test {
   width: 50%;
 }
 
@@ -8,9 +8,8 @@
   width: 100%;
 }
 
-.articulos{
+.articulos {
   flex-basis: 60%;
-
 }
 
 .time {
@@ -25,16 +24,16 @@
   text-align: center;
 }
 
-.main h3{
+.main h3 {
   padding: 10px 0 5px;
   font-size: 25px;
 }
 
-.main h4{
+.main h4 {
   font-size: 22px;
 }
 
-.main .h2{
+.main .h2 {
   font-size: 44px;
   font-family: "Source Sans Pro", arial, sans-serif;
   font-weight: 400;
@@ -44,7 +43,7 @@
   display: inline;
 }
 
-.logo-wrap{
+.logo-wrap {
   width: 87%;
   height: 87%;
   margin: auto;
@@ -64,27 +63,26 @@
   font-weight: 400;
   line-height: 1.833;
   -webkit-font-smoothing: antialiased;
-  color:#333;
+  color: #333;
   text-align: justify;
   padding: 8px 10px;
 }
 
-.boton{
- padding: 5px 7px;
- border: solid 1px #2344FF ;
- border-radius: 5px;
- background-color: #363534;
- color: white;
- font-size: 16px;
+.boton {
+  padding: 5px 7px;
+  border: solid 1px #2344FF;
+  border-radius: 5px;
+  background-color: #363534;
+  color: white;
+  font-size: 16px;
 }
 
 .columna {
- flex-basis: 24%;
- margin-left: 3%;
-
+  flex-basis: 24%;
+  margin-left: 3%;
 }
 
-.titulodecolumna-wrapper{
+.titulodecolumna-wrapper {
   padding: 5px 5px;
   text-align: center;
   border-radius: 2px;
@@ -92,17 +90,17 @@
   border-bottom: 1px solid black;
 }
 
-.titulodecolumna{
-font-family: "Merriweather";
-font-size: 20px;
+.titulodecolumna {
+  font-family: "Merriweather";
+  font-size: 20px;
 }
 
-.lista{
+.lista {
   border-radius: 5px;
-  background:#fff;
+  background: #fff;
 }
 
-.lista li  {
+.lista li {
   list-style: none;
   display: list-item;
   text-align: -webkit-macht-parent;
@@ -114,10 +112,9 @@ font-size: 20px;
   font-size: 24px;
   font-family: arial;
   color: #0071bb;
-
 }
 
-.main li  {
+.main li {
   list-style: none;
   display: list-item;
   text-align: -webkit-macht-parent;
@@ -129,12 +126,12 @@ font-size: 20px;
   font-weight: 400;
   line-height: 1.833;
   -webkit-font-smoothing: antialiased;
-  color:#333;
+  color: #333;
   text-align: justify;
   padding: 8px 10px;
 }
 
-.comments{
+.comments {
   margin-bottom: 15px;
   padding: 20px;
   background: #fff;
@@ -142,35 +139,34 @@ font-size: 20px;
   text-align: center;
 }
 
-.ver-mas{
+.ver-mas {
   border-radius: 10px;
   background-color: #52BE80;
   color: white;
-  padding:1%;
+  padding: 1%;
 }
 
-.ver-mas-wrap{
+.ver-mas-wrap {
   height: 25px;
 }
 
 /*Cell screen mode*/
-@media only screen and (max-width:548px){
-
-  .articulos{
+@media only screen and (max-width:548px) {
+  .articulos {
     flex-basis: 100%;
     align-items: center;
     justify-content: center;
   }
-  .social-media{
+
+  .social-media {
     margin: 0;
   }
 
-  .ver-mas{
+  .ver-mas {
     border-radius: 10px;
     background-color: #52BE80;
     color: white;
-    padding:2%;
+    padding: 2%;
     font-size: 18px;
   }
-
 }

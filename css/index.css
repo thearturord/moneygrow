@@ -19,7 +19,7 @@
 .time {
   margin-bottom: 10px;
   font-size: 18px;
-  color:#72787C;
+  color: #72787C;
   border-bottom: 1px dashed #EEE;
   border-top: 1px dashed #EEE;
   padding: 6px 0;
@@ -27,13 +27,13 @@
   display: block;
 }
 
-.time:before{
-  content:"\f073";
-  font-family:"FontAwesome";
+.time:before {
+  content: "\f073";
+  font-family: "FontAwesome";
   font-size: 18px;
   font-weight: 100;
   padding-right: 5px;
-  color:#72787C;
+  color: #72787C;
 }
 
 .main h2 {
@@ -46,7 +46,7 @@
   display: inline;
 }
 
-.logo-wrap{
+.logo-wrap {
   width: 87%;
   height: 87%;
   margin: auto;
@@ -72,12 +72,12 @@
   padding: 8px 10px;
 }
 
-.main h3{
+.main h3 {
   padding: 5px 0;
   font-size: 25px;
 }
 
-.main ul li  {
+.main ul li {
   list-style: none;
   display: list-item;
   text-align: -webkit-macht-parent;
@@ -89,12 +89,12 @@
   font-weight: 400;
   line-height: 1.833;
   -webkit-font-smoothing: antialiased;
-  color:#333;
+  color: #333;
   text-align: justify;
   padding: 8px 10px;
 }
 
-.read-flex{
+.read-flex {
   display: flex;
   justify-content: flex-end;
   padding-right: 10px;
@@ -111,21 +111,21 @@
   padding: 7px 10px;
 }
 
-.read:visited{
-  color:#0274be;
+.read:visited {
+  color: #0274be;
 }
 
-.read:hover{
+.read:hover {
   background: #0274be;
   color: white;
 }
 
-.read:after{
-  content:"\f061";
-  font-family:"FontAwesome";
+.read:after {
+  content: "\f061";
+  font-family: "FontAwesome";
   font-size: 15px;
   font-weight: 100;
-  color:inherit;
+  color: inherit;
   padding-left: 5px;
 }
 
@@ -156,12 +156,12 @@
   font-size: 20px;
 }
 
-.lista{
+.lista {
   border-radius: 5px;
-  background:#fff;
+  background: #fff;
 }
 
-.lista li  {
+.lista li {
   list-style: none;
   display: list-item;
   text-align: -webkit-macht-parent;
@@ -173,7 +173,6 @@
   font-size: 24px;
   font-family: arial;
   color: #0071bb;
-
 }
 
 .lista-pic {
@@ -181,19 +180,19 @@
   height: 50%;
 }
 
-.lista-img{
+.lista-img {
   width: 100%;
   height: 100%;
   padding-right: 5px;
 }
 
-.home-no{
+.home-no {
   display: flex;
   align-items: center;
-  justify-content:center;
+  justify-content: center;
 }
 
-.home-b{
+.home-b {
   height: 25px;
   width: 25px;
   padding: 25px;
@@ -206,13 +205,13 @@
   font-size: 20px;
 }
 
-.home-b a{
+.home-b a {
   padding: 25px;
   color: black;
 }
 
-.home-b a:visited{
-  color:black;
+.home-b a:visited {
+  color: black;
 }
 
 /*Cell screen mode*/
@@ -227,10 +226,9 @@
     margin: 0;
   }
 
-  .read-flex{
+  .read-flex {
     display: flex;
     justify-content: center;
-
   }
 
   .main a {
