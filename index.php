@@ -33,7 +33,6 @@
   gtag('config', 'UA-134739791-3', { 'optimize_id': 'GTM-KVDZ75V'} );
   </script>
 
-
 </head> <!-- end of head --->
 
 <body>
