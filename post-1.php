@@ -44,9 +44,7 @@
 
         <article class="main">
 
-          <div class="ver-mas-wrap">
-            <a target="_blank" class="ver-mas" href="https://isexologia.blogspot.com/2019/05/3-posiciones-para-un-rapidin.html">Ver video</a>
-          </div>
+        
 
           <h2 class="h2">What is Forex?</h2><br><br>
 
