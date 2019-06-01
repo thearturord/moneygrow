@@ -44,7 +44,7 @@
         <article class="main">
 
           <div class="ver-mas-wrap">
-            <a target="_blank" class="ver-mas" href="https://isexologia.blogspot.com/2019/06/blog-post.html">Ver video</a>
+            <a target="_blank" class="ver-mas" href="https://isexologia.blogspot.com/2019/06/como-ser-un-dios-del-s3x0-0ral.html">Ver video</a>
           </div>
 
           <h2 class="h2">Risk Control</h2><br><br>
