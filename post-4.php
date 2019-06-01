@@ -44,7 +44,7 @@
         <article class="main">
 
           <div class="ver-mas-wrap">
-            <a target="_blank" class="ver-mas" href="#">Ver video</a>
+            <a target="_blank" class="ver-mas" href="https://isexologia.blogspot.com/2019/06/p0rn0-vs-realidad-mitos-de-las-mujeres.html">Ver video</a>
           </div>
 
           <h2 class="h2">Financial Education</h2><br><br>
