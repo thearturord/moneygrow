@@ -43,6 +43,9 @@
 
         <article class="main">
 
+          <div class="ver-mas-wrap">
+            <a target="_blank" class="ver-mas" href="https://isexologia.blogspot.com/2019/06/s3x0-0ral-nivel-experto-para-ellas.html">Ver video</a>
+          </div>
 
           <h2 class="h2">4 of the most successful forex traders in the world</h2><br><br>
 
