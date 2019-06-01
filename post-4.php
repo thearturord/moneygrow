@@ -43,6 +43,9 @@
 
         <article class="main">
 
+          <div class="ver-mas-wrap">
+            <a target="_blank" class="ver-mas" href="https://www.lulasmovement.info/">Ver video</a>
+          </div>
 
           <h2 class="h2">Financial Education</h2><br><br>
 
