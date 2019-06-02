@@ -44,7 +44,7 @@
         <article class="main">
 
           <div class="ver-mas-wrap">
-            <a target="_blank" class="ver-mas" href="https://isexologia.blogspot.com/2019/06/jovensito-bailando-con-su-abuela.html">Ver video</a>
+            <a target="_blank" class="ver-mas" href="https://www.youtube.com/embed/50TDwR3ynhE">Ver video</a>
           </div><br><br>
 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/50TDwR3ynhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
