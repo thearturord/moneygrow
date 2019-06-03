@@ -43,13 +43,7 @@
 
         <article class="main">
 
-          <div class="ver-mas-wrap">
-            <a target="_blank" class="ver-mas" href="https://isexologia.blogspot.com/2019/05/4-masajes-explosivos-para-el-n3p3.html">Ver video</a>
-          </div>
-
-          <h2 class="h2">What is trading and how do you earn money by investing?</h2><br><br>
-
-
+        <h2 class="h2">What is trading and how do you earn money by investing?</h2><br><br>
 
           <time class="time" datetime="16-02-2019">Plubished today</time>
 
