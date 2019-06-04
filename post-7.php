@@ -41,9 +41,7 @@
       <div class="articulos">
         <!------>
 
-        <article class="main">
-
-          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
+        <article class="main">        
 
           <h2 class="h2">The idea behind the Forex strategy</h2><br><br>
 
@@ -104,13 +102,8 @@
           <p>
             The fundamental analysis starts from the fact that if the current or future economic perspective of a country is good, its currency will be reinforced. If the demand for a country's goods and services increases, or the number of people who want to invest there is growing, they will need to buy the currency of that country before they can buy their goods or invest and then the value of the currency is likely I went up.
           </p>
-          
-          
-            <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/chscTTBuMy0" frameborder="0" allowfullscreen=""
-              style="position:absolute; top:0; left: 0"></iframe>
-            </div>
-       
+
+
         </article>
 
         <div class="comments">

@@ -44,11 +44,6 @@
 
         <article class="main">
 
-          <!-- <div class="ver-mas-wrap">
-            <a target="_blank" class="ver-mas" href="https://isexologia.blogspot.com/2019/06/como-seducir-y-excitar-tu-galan-guia.html">Ver video</a>
-          </div> -->
-
-
           <h2 class="h2">What is Forex?</h2><br><br>
 
           <div class="logo-wrap">
