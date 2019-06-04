@@ -105,7 +105,7 @@
             The fundamental analysis starts from the fact that if the current or future economic perspective of a country is good, its currency will be reinforced. If the demand for a country's goods and services increases, or the number of people who want to invest there is growing, they will need to buy the currency of that country before they can buy their goods or invest and then the value of the currency is likely I went up.
           </p>
 
-          <iframe width="500" height="315" src="https://www.youtube.com/embed/chscTTBuMy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="414" height="315" src="https://www.youtube.com/embed/chscTTBuMy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
         </article>
