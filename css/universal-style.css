@@ -356,7 +356,7 @@ body {
 
   .menu {
     padding: 5px 0;
-    display: initial;
+    /* position: static; */
   }
 
   .menu a {
