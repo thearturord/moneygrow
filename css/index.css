@@ -138,58 +138,6 @@
   font-size: 16px;
 }
 
-.columna {
-  flex-basis: 24%;
-  margin-left: 3%;
-}
-
-.titulodecolumna-wrapper {
-  padding: 5px 5px;
-  text-align: center;
-  border-radius: 2px;
-  background: white;
-  border-bottom: 1px solid black;
-}
-
-.titulodecolumna {
-  font-family: "Merriweather";
-  font-size: 20px;
-}
-
-.lista {
-  border-radius: 5px;
-  background: #fff;
-  padding-bottom: 10px;
-}
-
-.lista li {
-  list-style: none;
-  display: list-item;
-  text-align: -webkit-macht-parent;
-  padding: 10px;
-  width: 100%;
-}
-
-.li-img{
-  width: 70px;
-  height: 50px;
-}
-
-.li-wrap{
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  font-size: 17px;
-  font-family: verdana;
-  color: #0071bb;
-  text-align: center;
-  margin: 5px 0;
-}
-
-.fixed-columna{
-  
-}
-
 .home-no {
   display: flex;
   align-items: center;
