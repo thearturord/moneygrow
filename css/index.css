@@ -159,6 +159,7 @@
 .lista {
   border-radius: 5px;
   background: #fff;
+  padding-bottom: 10px;
 }
 
 .lista li {
@@ -166,24 +167,27 @@
   display: list-item;
   text-align: -webkit-macht-parent;
   padding: 10px;
-}
-
-.lista a {
-  text-decoration: none;
-  font-size: 24px;
-  font-family: arial;
-  color: #0071bb;
-}
-
-.lista-pic {
-  width: 50%;
-  height: 50%;
-}
-
-.lista-img {
   width: 100%;
-  height: 100%;
-  padding-right: 5px;
+}
+
+.li-img{
+  width: 70px;
+  height: 50px;
+}
+
+.li-wrap{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: verdana;
+  color: #0071bb;
+  text-align: center;
+  margin: 5px 0;
+}
+
+.fixed-columna{
+  
 }
 
 .home-no {
