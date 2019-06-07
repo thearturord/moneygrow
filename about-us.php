@@ -100,7 +100,7 @@
 
             <p>For me, this blog is just like me. I welcome you to send me topics that you would like to discuss. I look forward to your commitment.</p>
 
-            <p>If you are new or do not know where to start? Click <a href="#">here to explore the blog.</a></p>
+            <p>If you are new or do not know where to start? Click <a href="index">here to explore the blog.</a></p>
 
           </div>
 

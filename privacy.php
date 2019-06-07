@@ -72,7 +72,7 @@
               We collect several different types of information for various purposes to provide and improve our Service to you.
             </p>
 
-            <h2>Types of Data Collected</h2>
+            <h3>Types of Data Collected</h3>
 
             <h3>Personal Data</h3>
 
@@ -185,18 +185,15 @@
 
             <h3>Changes To This Privacy Policy</h3>
 
-            <p>
-              We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+            <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
 
-              <p>
-              We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.</p>
+            <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.</p>
 
-              <p>
-              You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+            <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 
             <h3>Contact Us</h3>
 
-            <p>If you have any questions about this Privacy Policy, please <a href="contacto.php">contact us.</a> </p>
+            <p>If you have any questions about this Privacy Policy, please <a href="contacto">contact us.</a> </p>
 
           </div>
 
