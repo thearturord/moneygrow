@@ -5,7 +5,7 @@
   <link rel="shortcut icon" href="img/logo2.png">
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
-  <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
+  <meta name="description" content="Forex, Money, Investment. all the steps to be financially free" />
   <meta name="author" content="Arturo Nunez" />
   <meta name="keywords" content="News, Forex, Cryto currency" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
