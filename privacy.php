@@ -193,7 +193,7 @@
 
             <h3>Contact Us</h3>
 
-            <p>If you have any questions about this Privacy Policy, please <a href="contacto">contact us.</a> </p>
+            <p>If you have any questions about this Privacy Policy, please <a href="contact">contact us.</a> </p>
 
           </div>
 
