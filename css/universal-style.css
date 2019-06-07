@@ -350,10 +350,6 @@ body {
     display: none;
   }
 
-  .buscar label {
-    color: black;
-  }
-
   .menu {
     padding: 5px 0;
     /* position: static; */
@@ -370,6 +366,10 @@ body {
 
   .menu-right {
     display: none;
+  }
+
+  .nav-boton{
+    width: 100%;
   }
 
   .nav-boton li {

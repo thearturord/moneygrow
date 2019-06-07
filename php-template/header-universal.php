@@ -20,8 +20,8 @@
 <nav class="menu">
   <input class="check-box" type="checkbox" id="check-box">
   <label class="cell-menu-icon" for="check-box">Menu</label>
-  <div class="expand">
 
+  <div class="expand">
 
     <ul class="nav-boton" id="lista">
       <li><a href="index">HOME</a></li>
