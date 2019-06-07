@@ -88,10 +88,10 @@
           <p>And if the trader obtains some benefit from a bad broker, the market maker uses fraudulent practices that at first are not obvious - the market maker will look for their Stop-Losses, will expand the spreads at the time of execution of operations, freeze their platform trading meanwhile, and so on.</p>
 
           <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/TTMSDg_sAdo" frameborder="0" allowfullscreen=""
+           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/dHUG167e030" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
           </div>
-          
+
         </article>
 
         <div class="comments">
