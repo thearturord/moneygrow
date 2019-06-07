@@ -72,7 +72,7 @@
               We collect several different types of information for various purposes to provide and improve our Service to you.
             </p>
 
-            <h3>Types of Data Collected</h3>
+            <h3>Types of Data Collected</h3><br><br>
 
             <h3>Personal Data</h3>
 
