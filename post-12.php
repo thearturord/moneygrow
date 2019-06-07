@@ -43,6 +43,7 @@
 
         <article class="main">
 
+          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
 
           <h2 class="h2">Why will I do not invest in bitcoin or cryptocurrencies?</h2>  <br><br>
 
@@ -87,6 +88,11 @@
         <p>A cryptocurrency that aspires to replace the dollar can not have 30% drops in a week, as it has just happened. It had falls of 93% in 2011, 70% in 2013 or 86% in 2014 (apart from the first years where the roller coaster was continuous). Even the most dysfunctional traditional currencies do not reach these extremes. Imagine what the gentleman from Florida should have thought of who bought 2 pizzas for 10,000 bitcoins in 2010.</p>
 
         <p>It is not possible to  use a currency for daily transactions if its value is erratic. Without stability, no one will ask for a loan in that currency or use it to make purchases.</p>
+
+        <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+         <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Rd497XVzpb8" frameborder="0" allowfullscreen=""
+          style="position:absolute; top:0; left: 0"></iframe>
+        </div>
 
         </article>
 

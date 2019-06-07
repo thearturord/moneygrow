@@ -43,6 +43,8 @@
 
         <article class="main">
 
+          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
+
           <h2 class="h2">New regulations for Forex brokers in Russia 2019</h2>  <br><br>
 
           <div class="logo-wrap">
@@ -114,6 +116,11 @@
           <p>The laws must be modified in such a way that they protect the customers and at the same time allow a healthy competition between the brokers, since that is how they improve their game. People will also appreciate an easier way to participate in markets without too many obstacles; After all, others have succeeded. For now, we can appreciate the steps already taken and expect even more improvements.</p>
 
           <p>Finally, we leave you with a video about whether it is really profitable to invest in the stock market in the long term, and what is the real difference between trading and investing in the long term, and answer the question of what are the differences in terms of costs, in terms of performance, and in terms of effort.</p>
+
+          <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/v8dW99SBiqM" frameborder="0" allowfullscreen=""
+            style="position:absolute; top:0; left: 0"></iframe>
+          </div>
 
         </article>
 
