@@ -65,7 +65,7 @@
 
             <p>I would take a moment to explain why I started this blog and what I think is a value that you can draw from it.</p>
 
-            <p>I sometimes wanted to create a website when I was in high school, but I was not sure what I would blog about, but I decided to start a blog anyway. From May 2011 I started to get involved.</p>
+            <p>I sometimes wanted to create a website when I was in high school, but I was not sure what I would blog about, but I decided to start a blog anyway. From May 2018 I started to get involved.</p>
 
             <p>I started my first website in August 2011 with free hosting and domain names. I became interested in blogging. I started learning how to create a blog, how to program and how to manage it. I also created a few blogspot blogs. I read tons of articles and tried different tools to learn the tricks of the trade. My thirst for learning the latest web technologies like HTML and CSS has given me the power of web design.</p>
 
