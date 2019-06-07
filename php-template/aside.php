@@ -54,6 +54,42 @@
         <img class="li-img" src="img/post11.jpg" alt="">
         <li>Beginner's Guide to Forex Trading</li>
       </a>
+      <a class="li-wrap" href="post-12">
+        <img class="li-img" src="img/post12.jpg" alt="">
+        <li>Why will I do not invest in bitcoin or cryptocurrencies?</li>
+      </a>
+      <a class="li-wrap" href="post-13">
+        <img class="li-img" src="img/post13.jpg" alt="">
+        <li>The lavish enigma of the creator of bitcoin.</li>
+      </a>
+      <a class="li-wrap" href="post-14">
+        <img class="li-img" src="img/post14.jpg" alt="">
+        <li>How does the stock market works?</li>
+      </a>
+      <a class="li-wrap" href="post-15">
+        <img class="li-img" src="img/post15.jpg" alt="">
+        <li>The importance of economic training in everyday life</li>
+      </a>
+      <a class="li-wrap" href="post-16">
+        <img class="li-img" src="img/post16.jpg" alt="">
+        <li>Alternative criptodivises to the bitcoin to invest</li>
+      </a>
+      <a class="li-wrap" href="post-17">
+        <img class="li-img" src="img/post17.jpg" alt="">
+        <li>How to take advantage of the Psychology of 90% of the lost traders?</li>
+      </a>
+      <a class="li-wrap" href="post-18">
+        <img class="li-img" src="img/post18.jpg" alt="">
+        <li>How can the knowledge of finance be used in practice?</li>
+      </a>
+      <a class="li-wrap" href="post-19">
+        <img class="li-img" src="img/post19.jpg" alt="">
+        <li>New regulations for Forex brokers in Russia 2019</li>
+      </a>
+      <a class="li-wrap" href="post-20">
+        <img class="li-img" src="img/post20.jpg" alt="">
+        <li>The 10 worst scammers in the history of the Forex market</li>
+      </a>
     </ul>
   </div>
 </div>
