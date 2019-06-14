@@ -43,7 +43,7 @@
 
         <article class="main">
 
-<h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
+<!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
 
           <h2 class="h2">10 things you should know about the Forex market</h2><br><br>
 
@@ -103,9 +103,9 @@
 
         </article>
 
-        <div class="comments">
+        <!-- <div class="comments">
         <div class="fb-comments" data-href="https://forexmoneygrow.com/post-9" data-width="" data-numposts="100"></div>
-        </div>
+        </div> -->
 
       </div>
 
