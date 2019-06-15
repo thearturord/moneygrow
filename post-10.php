@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
+          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
 
           <h2 class="h2">What Forex Brokers Never Want you to Know!</h2><br><br>
 
@@ -87,10 +87,10 @@
 
           <p>And if the trader obtains some benefit from a bad broker, the market maker uses fraudulent practices that at first are not obvious - the market maker will look for their Stop-Losses, will expand the spreads at the time of execution of operations, freeze their platform trading meanwhile, and so on.</p>
 
-          <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+          <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/dHUG167e030" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
-          </div> -->
+          </div>
 
         </article>
 
