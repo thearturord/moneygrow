@@ -96,10 +96,10 @@
 
           <p>Of course, but the figures say that only 5% could do it (they are the ones who win) so if you think it's easy, no, it's not, but it's not impossible, you just do not have to make the mistakes of 95 % loser and that entails, for example, having a capital according to what you need to earn monthly considering a realistic and sustainable profitability over time. In short, to live on forex or trading in general are three aspects to consider: capital, objective monthly income and average monthly profitability. This will define if you can dedicate yourself and live on trading at 100% or half time and share it with other sources of income.</p>
 
-          <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+          <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/TTMSDg_sAdo" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
-          </div>
+          </div> -->
 
         </article>
 
