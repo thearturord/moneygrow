@@ -102,6 +102,8 @@
 
             <p>If you are new or do not know where to start? Click <a href="index">here to explore the blog.</a></p>
 
+            <p>If there is anything else you would like to know about us, just <a href="contact">contact us</a> </p>
+
           </div>
 
         </article>
