@@ -114,7 +114,7 @@
           <p>In fact, there is little data available to analyze this approach, and it is not easy to find a history of changes in the proportion of positions for at least one of the currency pairs. But I am sure that from this idea it is possible to build a profitable system, you only need to collect this data and thoroughly test the strategy in a sufficient amount of them. To convince yourself of the convenience of doing more research.</p>
 
           <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/LDByKmbRamU" frameborder="0" allowfullscreen=""
+           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/depMJPxrcWg" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
           </div>
 
