@@ -103,9 +103,9 @@
 
         </article>
 
-        <!-- <div class="comments">
+        <div class="comments">
         <div class="fb-comments" data-href="https://forexmoneygrow.com/post-9" data-width="" data-numposts="100"></div>
-        </div> -->
+        </div>
 
       </div>
 
