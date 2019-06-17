@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
+          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
 
           <h2 class="h2">Beginner's Guide to Forex Trading</h2>  <br><br>
 
@@ -160,10 +160,10 @@
 
             <p>The main Forex pairs tend to be the most liquid and, therefore, provide the most opportunities for short-term trading. However, there are also many opportunities between minor and exotic currencies, especially if you have some specialized knowledge about a certain currency.</p>
 
-            <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+            <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/cxeqArWwmVE" frameborder="0" allowfullscreen=""
               style="position:absolute; top:0; left: 0"></iframe>
-            </div>
+            </div> -->
 
         </article>
 

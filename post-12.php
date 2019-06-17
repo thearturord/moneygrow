@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
+          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
 
           <h2 class="h2">Why will I do not invest in bitcoin or cryptocurrencies?</h2>  <br><br>
 
@@ -89,10 +89,10 @@
 
         <p>It is not possible to  use a currency for daily transactions if its value is erratic. Without stability, no one will ask for a loan in that currency or use it to make purchases.</p>
 
-        <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+        <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Rd497XVzpb8" frameborder="0" allowfullscreen=""
           style="position:absolute; top:0; left: 0"></iframe>
-        </div>
+        </div> -->
 
         </article>
 
