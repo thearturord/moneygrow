@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
+          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
 
           <h2 class="h2">How to take advantage of the Psychology of 90% of the lost traders?</h2>  <br><br>
 
@@ -87,10 +87,10 @@
 
           <p>Trading works in the same way. We constantly strive to explore new methods, integrating ideas when appropriate, and introducing variables into the work system that show great statistical significance. And we know that if we succeed, it is most likely that, for other volatile context variables, we obtain the suppression effect. In simple words: <b>if we develop a system that provides stability and growth, and at the same time we try to suppress the influence of context variables as much as possible, that system will be easier to follow, and the probability of incorrect decisions will be minimized. due to emotions and monetary losses in this regard...</b></p>
 
-          <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+          <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/UiGkFbIUIuE" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
-          </div> -->
+          </div>
 
         </article>
 
