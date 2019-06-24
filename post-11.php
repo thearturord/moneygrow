@@ -168,7 +168,7 @@
         </article>
 
         <div class="comments">
-        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-11 " data-width="" data-numposts="100"></div>
+        <div class="fb-comments" data-href="https://forexmoneygrow.com/post-11" data-width="" data-numposts="100"></div>
         </div>
 
       </div>
