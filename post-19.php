@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
+          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
 
           <h2 class="h2">New regulations for Forex brokers in Russia 2019</h2>  <br><br>
 
@@ -117,10 +117,10 @@
 
           <p>Finally, we leave you with a video about whether it is really profitable to invest in the stock market in the long term, and what is the real difference between trading and investing in the long term, and answer the question of what are the differences in terms of costs, in terms of performance, and in terms of effort.</p>
 
-          <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+          <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/14eKRPtfa1A" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
-          </div>
+          </div> -->
 
         </article>
 
