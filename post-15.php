@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
+          <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1>
 
           <h2 class="h2">The importance of economic training in everyday life.</h2>  <br><br>
 
@@ -68,10 +68,10 @@
           <p>It is clear that the economy is part of our environment from very small. Concepts such as scarcity and value we know how to apply without hardly knowing that we do it. When we were playing as children exchanging football cards, we knew that there were some who came out less in the envelopes, and it was precisely these that we exchanged for more cards. When compulsory education ends, we must choose between continuing to study or going to work; It is considered an economic decision because we value the costs of continuing to study against possible income if we enter the labor market.</p>
 
 
-          <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+          <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/FA_Tfn8jLaw" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
-          </div> -->
+          </div>
 
         </article>
 
