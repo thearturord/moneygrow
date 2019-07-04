@@ -43,8 +43,6 @@
 
         <article class="main">
 
-          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
-
           <h2 class="h2">Security in your transactions</h2><br><br>
 
           <div class="logo-wrap">
@@ -91,11 +89,6 @@
           </ul>
 
           <p>Financial education helps to generate financial freedom in a lasting way, because if you get a large amount of money, but it is managed incorrectly, it can quickly evaporate. The secret is to generate base profits to be used in reinvestment, to control census expenses, and to be continuously educated with the best quality financial information.</p>
-
-            <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Y5egXEo_3QY" frameborder="0" allowfullscreen=""
-              style="position:absolute; top:0; left: 0"></iframe>
-            </div> -->
 
         </article>
 

@@ -43,8 +43,6 @@
 
         <article class="main">
 
-          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
-
           <h2 class="h2">The lavish enigma of the creator of bitcoin.</h2>  <br><br>
 
           <div class="logo-wrap">
@@ -71,11 +69,6 @@
       <p>The never ending story continued in 2013 when Japanese mathematician Shinichi Mochizuki was targeted as the "father" of the cryptocurrency. There were even attempts to link the Bitcoin with Ross William Ulbricht, supposed creator of a black market, Silk Road, which operated on the so-called "deep web" or "deep internet", which worked until his arrest four years ago.</p>
 
       <p>Craig Steven Wright, an Australian academic and entrepreneur of 46 years, has been the name that has had most strength as a precursor of the decentralized currency. He was arrested in 2015 and last year claimed that he was Satoshi Nakamoto. An announcement that uncovered hours later the doubts of the experts, who lamented that it was mere publicity of their companies, causing Wright had to go publicly to retract. He did it without giving any obvious evidence, thus passing a new page of a story of enigmas and mysteries.</p>
-
-      <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-       <iframe width="100%" height="100%" src="https://www.youtube.com/embed/14eKRPtfa1A" frameborder="0" allowfullscreen=""
-        style="position:absolute; top:0; left: 0"></iframe>
-      </div> -->
 
         </article>
 

@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
+          <h1 style="color:red; font-size:20px;">▼▼El video al final de la pagina▼▼</h1>
 
           <h2 class="h2">The 10 worst scammers in the history of the Forex market</h2>  <br><br>
 
@@ -101,10 +101,10 @@
 
           <p>Just give you some advice: "Never leave your money to someone who does not trust or is 100% reliable." So that you do not fall into this error, we offer you a smart list that only includes the best Forex brokers, in this list you will find regulated and trusted brokers.</p>
 
-          <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/BSS6O0X65YU" frameborder="0" allowfullscreen=""
+          <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/chscTTBuMy0" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
-          </div> -->
+          </div>
 
         </article>
 

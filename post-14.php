@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <!-- <h1 style="color:red; font-size:25px;">▼▼▼▼▼El video al final de la pagina▼▼▼▼▼</h1> -->
+          <h1 style="color:red; font-size:20px;">▼▼El video al final de la pagina▼▼</h1>
 
           <h2 class="h2">How does the stock market works?</h2>  <br><br>
 
@@ -78,10 +78,10 @@
     <p>The Stock Exchange supposes enormous possibilities of increasing (or recovering) the profits of the companies. The key is to make the offer attractive and attract the attention of a good number of investors.</p>
 
 
-    <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/dnJyI2R9aPU" frameborder="0" allowfullscreen=""
+    <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/dHUG167e030" frameborder="0" allowfullscreen=""
       style="position:absolute; top:0; left: 0"></iframe>
-    </div> -->
+    </div>
 
         </article>
 
