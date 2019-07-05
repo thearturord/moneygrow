@@ -25,6 +25,14 @@
   gtag('config', 'UA-134739791-3', { 'optimize_id': 'GTM-KVDZ75V'} );
   </script>
 
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3177332832089381",
+    enable_page_level_ads: true
+  });
+</script>
+
 </head> <!-- end of head --->
 
 <body>
@@ -42,7 +50,7 @@
         <!------>
 
         <article class="main">
-<!-- 
+<!--
           <h1 style="color:red; font-size:20px;">▼▼El video al final de la pagina▼▼</h1> -->
 
           <h2 class="h2">The 10 worst scammers in the history of the Forex market</h2>  <br><br>
