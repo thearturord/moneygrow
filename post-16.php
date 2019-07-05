@@ -43,7 +43,7 @@
 
         <article class="main">
 
-          <h1 style="color:red; font-size:20px;">▼▼El video al final de la pagina▼▼</h1>
+          <!-- <h1 style="color:red; font-size:20px;">▼▼El video al final de la pagina▼▼</h1> -->
 
           <h2 class="h2">Alternative criptodivises to the bitcoin to invest</h2>  <br><br>
 
@@ -92,10 +92,10 @@
           <p>Zcash was born on October 28, 2016, it is a fully decentralized cryptocurrency very similar to Bitcoin. Its composition is practically the same, only 21 million coins will be issued in the future, and the system is also blockchain. What differentiates this cryptocurrency from Bitcoin are 2 things. The first is that it has been created by a company and this can give some more confidence to shareholders and investors and holders of this currency, since, despite having an open source similar to Bitcoin, it is regulated and managed by a company . And the second strong point of this currency is anonymity, if the opacity is a reference in the world of cryptocurrency, with the Zcash we go a step further, in fact, the origin of this cryptocurrency began being an extra layer of anonymity for the Bitcoin and in the end ended up being a totally independent currency. And the Zcash automatically hides the identity of the senders and receivers, as well as the amount of all transactions.
           </p>
 
-          <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+          <!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Q5wCDEvbcgM" frameborder="0" allowfullscreen=""
             style="position:absolute; top:0; left: 0"></iframe>
-          </div>
+          </div> -->
 
         </article>
 
