@@ -41,12 +41,6 @@
   });
 </script>
 
-<script>
-var popunderUrl = 'https://www.sexyvideo.club/?sl=3843689-25c61&data1=Track1&data2=Track2';
-var popunderPeriod = 12;
-</script>
-<script src="//cdnaws.mobidea.com/ads/popunder.js"></script>
-
 </head> <!-- end of head --->
 
 <body>

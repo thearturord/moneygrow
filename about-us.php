@@ -33,13 +33,6 @@
   gtag('config', 'UA-134739791-3', { 'optimize_id': 'GTM-KVDZ75V'} );
   </script>
 
-  <script>
-var moOverlayUrl = 'https://www.sexyvideo.club/?sl=3843689-25c61&data1=Track1&data2=Track2';
-var moOverlayPeriod = 12;
-</script>
-<script src="//cdnaws.mobidea.com/ads/overlay.js"></script>
-
-
 </head> <!-- end of head --->
 
 <body>
