@@ -194,6 +194,9 @@
 <?php include("php-template/footer.php") ?>
 
   <script type="text/javascript" src="js/javascript.js"></script>
+
+  <!-- Facebook Script -->
+  
   <script>
 window.fbAsyncInit = function() {
 FB.init({
