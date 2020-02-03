@@ -4,6 +4,7 @@
 <head>
   <link rel="shortcut icon" href="img/logo2.png">
   <link rel="canonical" href="https://forexmoneygrow.com/post-1">
+  <meta property="op:markup_version" content="v1.0">
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
   <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
@@ -50,8 +51,8 @@
             <img class="logo-test" src="img/post1.jpg" alt="">
           </div>
 
-          <time class="h2 op-published" datetime="2020-02-03T04:44:16Z">February 3rd, 4:44 PM</time>
-          <time class="h2 op-modified" datetime="2020-02-03T04:45:18Z">February 3rd, 4:45 PM</time>
+          <time class="h2 op-published" dateTime="2020-2-03T04:44:16Z">February 3rd, 4:44 PM</time>
+          <time class="h2 op-modified" dateTime="2020-2-03T04:45:18Z">February 3rd, 4:45 PM</time>
 
           <p>
             The Forex exchange market is the abbreviation in English of Foreign Exchange Currency Market, that is to say: Exchange Market of Currencies (currencies). Where the trader seeks profits through fluctuations in the exchange rate. </p>
