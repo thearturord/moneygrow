@@ -44,11 +44,14 @@
 
         <article class="main">
 
-          <h2 class="h2">What is Forex?</h2><br><br>
+          <h1 class="h2">What is Forex?</h1><br><br>
 
           <div class="logo-wrap">
             <img class="logo-test" src="img/post1.jpg" alt="">
           </div>
+
+          <time class="h2 op-published" datetime="2020-02-03T04:44:16Z">February 3rd, 4:44 PM</time>
+          <time class="h2 op-modified" datetime="2020-02-03T04:45:18Z">February 3rd, 4:45 PM</time>
 
           <p>
             The Forex exchange market is the abbreviation in English of Foreign Exchange Currency Market, that is to say: Exchange Market of Currencies (currencies). Where the trader seeks profits through fluctuations in the exchange rate. </p>
