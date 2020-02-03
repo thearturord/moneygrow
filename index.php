@@ -206,6 +206,12 @@ FB.AppEvents.logPageView();
 }(document, 'script', 'facebook-jssdk'));
 </script>
 
+<div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
 
 </body>
 
