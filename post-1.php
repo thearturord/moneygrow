@@ -3,7 +3,7 @@
 
 <head>
   <link rel="shortcut icon" href="img/logo2.png">
-  <link rel=”post-1” href=”https://forexmoneygrow.com/post-1” />
+  <link rel=”canonical” href=”https://forexmoneygrow.com/post-1” />
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
   <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
