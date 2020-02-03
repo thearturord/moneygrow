@@ -185,6 +185,10 @@
 
 <?php include("php-template/botones.php") ?>
 
+<button onclick='FB.AppEvents.logEvent("buttonClicked")'>
+  Click me
+</button>
+
 <div
   class="fb-like"
   data-share="true"
