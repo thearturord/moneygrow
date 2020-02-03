@@ -4,6 +4,7 @@
 <head>
   <link rel="shortcut icon" href="img/logo2.png">
   <link rel="canonical" href="https://forexmoneygrow.com/post-1"/>
+  <meta property="fb:pages" content="912187999157683" />
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
   <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
@@ -25,17 +26,6 @@
 
   gtag('config', 'UA-134739791-3', { 'optimize_id': 'GTM-KVDZ75V'} );
   </script>
-
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-3177332832089381",
-    enable_page_level_ads: true
-  });
-</script>
-
-<meta property="fb:pages" content="912187999157683" />
-
 
 </head> <!-- end of head --->
 
