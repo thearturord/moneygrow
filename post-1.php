@@ -5,6 +5,7 @@
   <link rel="shortcut icon" href="img/logo2.png">
   <link rel="canonical" href="https://forexmoneygrow.com/post-1">
   <meta property="op:markup_version" content="v1.0">
+  <meta property="fb:article_style" content="default">
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
   <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
