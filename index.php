@@ -3,6 +3,7 @@
 
 <head>
   <link rel="shortcut icon" href="img/logo2.png">
+  <link rel="canonical" href="https://forexmoneygrow.com">
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
   <meta name="description" content="Forex, Money, Investment. all the steps to be financially free" />
@@ -196,7 +197,7 @@
   <script type="text/javascript" src="js/javascript.js"></script>
 
   <!-- Facebook Script -->
-  
+
   <script>
 window.fbAsyncInit = function() {
 FB.init({
