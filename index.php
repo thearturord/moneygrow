@@ -57,7 +57,7 @@
 
       <div class="articulos">
         <fb:login-button
-          scope="public_profile,email"
+          scope="public_profile,email,name"
           onlogin="checkLoginState();">
         </fb:login-button>
         <!------>
