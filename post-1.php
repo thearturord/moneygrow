@@ -9,7 +9,7 @@
   <meta property="op:markup_version" content="v1.0">
   <meta property="fb:article_style" content="default">
   <meta property="og:title" content="What_is_Forex?">
-  <meta property="og:url" content="forexmoneygrow.com/post-1">
+  <meta property="og:url" content="https://forexmoneygrow.com/post-1">
   <meta property="og:description" content="Explaining_Forex">
   <meta property="og:image" content="https://forexmoneygrow.com/img/logo2.png">
   <meta property="fb:app_id" content="176296587022787" />
