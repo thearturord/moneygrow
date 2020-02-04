@@ -187,4 +187,12 @@
     padding-left: 0;
     padding: 9px;
   }
+
+  .main p {
+    font-size: 15px;
+  }
+
+  .main ul li {
+    font-size: 15px;
+  }
 }
