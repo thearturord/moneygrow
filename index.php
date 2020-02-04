@@ -72,7 +72,8 @@
             <h2>What is Forex?</h2>
           </a>
 
-          <time class="time" datetime="16-02-2019">Last update 11/05/2019</time>
+          <time class="op-published time" datetime="16-02-2019">Last update 11/05/2019</time>
+          <time class="op-modified time" datetime="16-02-2019"></time>
 
           <div class="logo-wrap">
             <img class="logo-test" src="img/post1.jpg" alt="">
