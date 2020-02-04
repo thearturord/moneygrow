@@ -8,13 +8,14 @@
   <link rel="canonical" href="https://forexmoneygrow.com/post-1">
   <meta property="op:markup_version" content="v1.0">
   <meta property="fb:article_style" content="default">
-  <meta property="fb:pages" content="{912187999157683}">
   <meta property="og:title" content="What is Forex?">
   <meta property="og:url" content="https://forexmoneygrow.com/post-1">
   <meta property="og:description" content="Explaining Forex">
   <meta property="og:image" content="https://forexmoneygrow.com/img/logo2.png">
+  <meta property="fb:app_id" content="176296587022787" />
   <meta property="fb:pages" content="912187999157683" />
   <meta property="fb:app_id" content="176296587022787" />
+  <meta property="og:type" content="article" />  
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
   <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
