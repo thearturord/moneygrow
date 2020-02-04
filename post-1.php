@@ -2,6 +2,8 @@
 <html lang="en-US" dir="ltr">
 
 <head>
+  <meta name="date" content="2020-01-02" scheme="YYYY-MM-DD">
+  <meta name="identifier" content="0-2345-6634-6" scheme="ISBN">
   <link rel="shortcut icon" href="img/logo2.png">
   <link rel="canonical" href="https://forexmoneygrow.com/post-1">
   <meta property="op:markup_version" content="v1.0">
