@@ -6,6 +6,9 @@
   <link rel="canonical" href="https://forexmoneygrow.com">
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
+  <meta property="og:title" content="What is Forex?">
+  <meta property="og:description" content="Explaining Forex">
+  <meta property="og:image" content="img/logo2.png">
   <meta name="description" content="Forex, Money, Investment. all the steps to be financially free" />
   <meta name="author" content="Arturo Nunez" />
   <meta name="keywords" content="News, Forex, Cryto currency" />
