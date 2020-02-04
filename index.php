@@ -232,9 +232,21 @@ function statusChangeCallback(response){
     console.log("didnt work");
   }
 }
+
+
+function checkLoginState() {
+  FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+  });
+}
+
 </script>
 
 
+<fb:login-button
+  scope="public_profile,email"
+  onlogin="checkLoginState();">
+</fb:login-button>
 
 </body>
 
