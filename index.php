@@ -210,6 +210,11 @@ FB.init({
   version    : 'v6.0'
 });
 FB.AppEvents.logPageView();
+
+FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+});
+
 };
 
 (function(d, s, id){
@@ -219,6 +224,14 @@ FB.AppEvents.logPageView();
  js.src = "https://connect.facebook.net/en_US/sdk.js";
  fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
+
+function statusChangeCallback(response){
+  if (response.status === "connected") {
+    console.log("worked");
+  }else {
+    console.log("didnt work");
+  }
+}
 </script>
 
 
