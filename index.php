@@ -11,6 +11,7 @@
   <meta property="og:image" content="img/logo2.png">
   <meta property="fb:pages" content="912187999157683" />
   <meta property="fb:app_id" content="176296587022787" />
+  <meta property="fb:app_id" content="176296587022787" />
   <meta name="description" content="Forex, Money, Investment. all the steps to be financially free" />
   <meta name="author" content="Arturo Nunez" />
   <meta name="keywords" content="News, Forex, Cryto currency" />
