@@ -56,6 +56,10 @@
 
 
       <div class="articulos">
+        <fb:login-button
+          scope="public_profile,email"
+          onlogin="checkLoginState();">
+        </fb:login-button>
         <!------>
 
         <article class="main">
@@ -241,12 +245,6 @@ function checkLoginState() {
 }
 
 </script>
-
-
-<fb:login-button
-  scope="public_profile,email"
-  onlogin="checkLoginState();">
-</fb:login-button>
 
 </body>
 
