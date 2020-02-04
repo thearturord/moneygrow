@@ -12,7 +12,7 @@
   <meta property="og:title" content="What is Forex?">
   <meta property="og:url" content="https://forexmoneygrow.com/post-1">
   <meta property="og:description" content="Explaining Forex">
-  <meta property="og:image" content="img/logo2.png">
+  <meta property="og:image" content="https://forexmoneygrow.com/img/logo2.png">
   <meta property="fb:pages" content="912187999157683" />
   <meta property="fb:app_id" content="176296587022787" />
   <meta charset="utf-8">
