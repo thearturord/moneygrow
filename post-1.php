@@ -56,8 +56,8 @@
               <img class="logo-test" src="img/post1.jpg" alt="">
             </div>
 
-            <time class="h2 op-published" dateTime="2020-2-03T04:44:16Z">February 3rd, 4:44 PM</time>
-            <time class="h2 op-modified" dateTime="2020-2-03T04:45:18Z">February 3rd, 4:45 PM</time>
+            <time class="op-published" dateTime="2020-2-03T04:44:16Z">February 3rd, 4:44 PM</time>
+            <time class="op-modified" dateTime="2020-2-03T04:45:18Z">February 3rd, 4:45 PM</time>
           </header>
 
 
