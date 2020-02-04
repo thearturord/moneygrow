@@ -14,7 +14,6 @@
   <meta property="og:image" content="https://forexmoneygrow.com/img/logo2.png">
   <meta property="fb:app_id" content="176296587022787" />
   <meta property="fb:pages" content="912187999157683" />
-  <meta property="fb:app_id" content="176296587022787" />
   <meta property="og:type" content="article" />
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
