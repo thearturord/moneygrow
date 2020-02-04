@@ -231,9 +231,9 @@ FB.getLoginStatus(function(response) {
 
 function statusChangeCallback(response){
   if (response.status === "connected") {
-    console.log("worked");
+    console.log("Logged_in");
   }else {
-    console.log("didnt work");
+    console.log("Logged_out");
   }
 }
 
