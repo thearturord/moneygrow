@@ -1,12 +1,43 @@
-<!doctype html>
-<html lang="en" prefix="op: http://media.facebook.com/op#">
-  <head>
-    <meta charset="utf-8">
-    <!-- URL of the web version of this article -->
-    <!-- TODO: Change the domain to match the domain of your website -->
-    <link rel="canonical" href="https://forexmoneygrow.com/post-1">
-    <meta property="op:markup_version" content="v1.0">
-  </head>
+<!DOCTYPE html>
+<html lang="en-US" prefix="op:http://media.facebook.com/op#" dir="ltr">
+
+<head>
+  <meta name="date" content="2020-01-02" scheme="YYYY-MM-DD">
+  <meta name="identifier" content="0-2345-6634-6" scheme="ISBN">
+  <link rel="shortcut icon" href="img/logo2.png">
+  <link rel="canonical" href="https://forexmoneygrow.com/post-1">
+  <meta property="op:markup_version" content="v1.0">
+  <meta property="fb:article_style" content="default">
+  <meta property="og:title" content="What_is_Forex?">
+  <meta property="og:url" content="https://forexmoneygrow.com/post-1">
+  <meta property="og:description" content="Explaining_Forex">
+  <meta property="og:image" content="https://forexmoneygrow.com/img/logo2.png">
+  <meta property="fb:app_id" content="176296587022787" />
+  <meta property="fb:pages" content="912187999157683" />
+  <meta property="og:type" content="article" />
+  <meta charset="utf-8">
+  <title>ForexMoneyGrow</title>
+  <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
+  <meta name="author" content="Arturo Nunez" />
+  <meta name="keywords" content="News, Forex, Cryto currency" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/universal-style.css">
+  <link rel="stylesheet" href="css/post.css">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134739791-3"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-134739791-3', { 'optimize_id': 'GTM-KVDZ75V'} );
+  </script>
+
+</head> <!-- end of head --->
   <body>
     <article>
       <header>
@@ -15,10 +46,10 @@
         <h2>Article Subtitle</h2>
 
         <!-- The date and time when your article was originally published -->
-        <time class="op-published" datetime="2014-11-11T04:44:16Z">November 11th, 4:44 PM</time>
+        <time class="op-published" datetime="2019-11-11T04:44:16Z">November 11th, 4:44 PM</time>
 
         <!-- The date and time when your article was last updated -->
-        <time class="op-modified" dateTime="2014-12-11T04:44:16Z">December 11th, 4:44 PM</time>
+        <time class="op-modified" dateTime="2019-12-11T04:44:16Z">December 11th, 4:44 PM</time>
 
         <!-- The authors of your article -->
         <address>
