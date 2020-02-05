@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <!-- URL of the web version of this article -->
     <!-- TODO: Change the domain to match the domain of your website -->
-    <link rel="canonical" href="https://forexmoneygrow.com/post-1.html">
+    <link rel="canonical" href="https://forexmoneygrow.com/post-1">
     <meta property="op:markup_version" content="v1.0">
   </head>
   <body>
