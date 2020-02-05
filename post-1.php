@@ -113,5 +113,23 @@
         </div>
       </footer>
     </article>
+
+    <script>
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '176296587022787',
+    xfbml      : true,
+    version    : 'v6.0'
+  });
+  FB.AppEvents.logPageView();
+
+  FB.getLoginStatus(function(response) {
+      statusChangeCallback(response);
+  });
+
+  };
+
+</script>
+
   </body>
 </html>
