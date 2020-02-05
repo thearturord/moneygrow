@@ -193,17 +193,6 @@
 
 <?php include("php-template/botones.php") ?>
 
-<button onclick='FB.AppEvents.logEvent("buttonClicked")'>
-  Click me
-</button>
-
-<div
-  class="fb-like"
-  data-share="true"
-  data-width="450"
-  data-show-faces="true">
-</div>
-
 <?php include("php-template/footer.php") ?>
 
   <script type="text/javascript" src="js/javascript.js"></script>
