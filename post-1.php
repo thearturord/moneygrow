@@ -105,31 +105,11 @@
 
         <!-- Copyright details for your article -->
         <small>Legal notes</small>
-        <div
-          class="fb-like"
-          data-share="true"
-          data-width="450"
-          data-show-faces="true">
-        </div>
+
       </footer>
     </article>
 
-    <script>
-  window.fbAsyncInit = function() {
-  FB.init({
-    appId      : '176296587022787',
-    xfbml      : true,
-    version    : 'v6.0'
-  });
-  FB.AppEvents.logPageView();
-
-  FB.getLoginStatus(function(response) {
-      statusChangeCallback(response);
-  });
-
-  };
-
-</script>
+    <?php include("php-template/footer.php") ?>
 
   </body>
 </html>
