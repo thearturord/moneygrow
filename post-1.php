@@ -12,14 +12,14 @@
   <meta property="og:url" content="https://forexmoneygrow.com/post-1">
   <meta property="og:description" content="Explaining_Forex">
   <meta property="og:image" content="https://forexmoneygrow.com/img/logo2.png">
-  <meta property="fb:app_id" content="176296587022787" />
-  <meta property="fb:pages" content="912187999157683" />
-  <meta property="og:type" content="article" />
+  <meta property="fb:app_id" content="176296587022787"/>
+  <meta property="fb:pages" content="912187999157683"/>
+  <meta property="og:type" content="article"/>
   <meta charset="utf-8">
   <title>ForexMoneyGrow</title>
-  <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free" />
-  <meta name="author" content="Arturo Nunez" />
-  <meta name="keywords" content="News, Forex, Cryto currency" />
+  <meta name="description" content="Forex, Money, Investment.. all the steps to be financially free"/>
+  <meta name="author" content="Arturo Nunez"/>
+  <meta name="keywords" content="News, Forex, Cryto currency"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/universal-style.css">
   <link rel="stylesheet" href="css/post.css">
@@ -64,7 +64,7 @@
         <!-- The cover image shown inside your article -->
         <!-- TODO: Change the URL to a live image from your website -->
         <figure>
-          <img src="https://forexmoneygrow.com/img/logo2.png" />
+          <img src="https://forexmoneygrow.com/img/post1.jpg"/>
           <figcaption>This image is amazing</figcaption>
         </figure>
 
