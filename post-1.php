@@ -70,6 +70,8 @@
 
        function statusChangeCallback(response){
          if (response.status === "connected") {
+           console.log(response);
+           console.log(response.status);
            console.log("you are in");
          } else{
            console.log("you are out");
