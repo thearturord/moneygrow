@@ -28,14 +28,14 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134739791-3"></script>
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134739791-3"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-134739791-3', { 'optimize_id': 'GTM-KVDZ75V'} );
-  </script>
+  </script> -->
 
 </head> <!-- end of head --->
   <body>
@@ -92,10 +92,10 @@
         <time class="op-modified" dateTime="2020-2-03T04:45:18Z">February 3rd, 4:45 PM</time>
 
         <!-- The authors of your article -->
-        <address>
+        <!-- <address>
           <a rel="facebook" href="http://facebook.com/brandon.diamond">Brandon Diamond</a>
           Brandon is a avid zombie hunter.
-        </address>
+        </address> -->
         <address>
           <a>TR Vishwanath</a>
           Vish is a scholar and a gentleman.
@@ -198,9 +198,9 @@
 
       <!-- An ad within your article -->
       <!-- TODO: Change the URL to a live ad from your website -->
-      <figure class="op-ad">
+      <!-- <figure class="op-ad">
         <iframe src="https://www.adserver.com/ss;adtype=banner320x50" height="60" width="320"></iframe>
-      </figure>
+      </figure> -->
 
       <!-- Analytics code for your article -->
       <figure class="op-tracker">
